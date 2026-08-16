@@ -1,0 +1,753 @@
+    /opt/homebrew/Cellar/ghidra/12.1.2/libexec/Ghidra/Processors/PIC/ghidra_scripts (HeadlessAnalyzer)  
+defined data scanned: 18857 (GhidraScript)  
+total attributed functions: 227 across 149 source files (GhidraScript)  
+from src\app\watch\Gui\LVGL\src\draw\lv_draw_img.c (GhidraScript)  
+/* WARNING: Type propagation algorithm not settling */
+/* WARNING: Restarted to delay deadcode elimination for space: stack */
+
+undefined4 FUN_02149730(int param_1,short *param_2,short *param_3,undefined4 param_4)
+
+{
+  undefined1 uVar1;
+  undefined1 uVar2;
+  short sVar3;
+  undefined4 *puVar4;
+  int iVar5;
+  int iVar6;
+  int iVar7;
+  int iVar8;
+  uint uVar9;
+  undefined1 *puVar10;
+  int iVar11;
+  uint uVar12;
+  code *pcVar13;
+  uint uVar14;
+  undefined1 *puVar15;
+  uint uVar16;
+  undefined1 *puVar17;
+  undefined1 *puVar18;
+  int iVar19;
+  uint uVar20;
+  undefined4 uVar21;
+  int iVar22;
+  uint uVar23;
+  uint uStack_b8;
+  short sStack_b0;
+  short sStack_ae;
+  undefined4 uStack_ac;
+  uint uStack_a8;
+  int iStack_a4;
+  uint auStack_a0 [2];
+  int iStack_98;
+  undefined2 uStack_94;
+  uint uStack_90;
+  uint uStack_8c;
+  short sStack_88;
+  short sStack_86;
+  short sStack_84;
+  short sStack_82;
+  undefined4 uStack_80;
+  undefined4 uStack_7c;
+  undefined1 auStack_78 [8];
+  short sStack_70;
+  short sStack_6e;
+  short sStack_6c;
+  short sStack_6a;
+  short sStack_68;
+  short sStack_66;
+  short sStack_64;
+  short sStack_62;
+  int iStack_60;
+  undefined4 uStack_5c;
+  uint uStack_58;
+  uint uStack_54;
+  undefined4 uStack_50;
+  undefined4 uStack_4c;
+  uint auStack_48 [2];
+  undefined1 auStack_40 [12];
+  int iStack_34;
+  short *local_30;
+  short *psStack_2c;
+  undefined4 uStack_28;
+  
+  if (*(byte *)((int)param_2 + 0xb) < 3) {
+    return 1;
+  }
+  iStack_34 = param_1;
+  local_30 = param_2;
+  psStack_2c = param_3;
+  uStack_28 = param_4;
+  iVar5 = FUN_0215a140(param_4,*(undefined4 *)(param_2 + 4),*(undefined4 *)(param_2 + 8));
+  if (iVar5 == 0) {
+    return 0;
+  }
+  uVar12 = *(uint *)(iVar5 + 0x14) & 0x1f;
+  if (uVar12 == 3 || uVar12 == 6) {
+    uStack_50 = 6;
+  }
+  else {
+    uVar12 = *(uint *)(iVar5 + 0x14) & 0x1f;
+    if (uVar12 != 0xb) {
+      if (uVar12 < 0xc) {
+        switch(uVar12) {
+        case 2:
+        case 5:
+        case 7:
+        case 8:
+        case 9:
+        case 10:
+          goto switchD_0214977c_caseD_2;
+        default:
+          goto switchD_0214977c_caseD_3;
+        }
+      }
+      if (uVar12 != 0xe) {
+        if (uVar12 < 0xf) {
+          if (uVar12 != 0xc && uVar12 != 0xd) {
+switchD_0214977c_caseD_3:
+            uStack_50 = 4;
+            goto LAB_021497ae;
+          }
+        }
+        else if (uVar12 != 0x19 && uVar12 != 0x1b) goto switchD_0214977c_caseD_3;
+      }
+    }
+switchD_0214977c_caseD_2:
+    uStack_50 = 5;
+  }
+LAB_021497ae:
+  if (*(int *)(iVar5 + 0x20) != 0) {
+    FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__02149bb8,0xfc,DAT_02149bb4);
+    iVar6 = iStack_34;
+    uVar21 = *(undefined4 *)(iVar5 + 0x20);
+    FUN_0214acf0(&iStack_98);
+    uStack_94 = 0xffff;
+    FUN_0214adf6(iVar6,&iStack_98,param_3);
+    FUN_0214a4b4(&iStack_60);
+    FUN_0214a538(iVar6,&iStack_60,param_3,uVar21);
+    goto LAB_0214a0f2;
+  }
+  if (*(int *)(iVar5 + 0x18) != 0) {
+    sStack_b0 = *param_3;
+    sStack_ae = param_3[1];
+    uStack_ac = *(uint *)(param_3 + 2);
+    if ((*local_30 != 0) || (local_30[1] != 0x100)) {
+      FUN_0214b5c2(&sStack_b0,(int)(short)((param_3[2] - *param_3) + 1),
+                   (int)(short)((param_3[3] - param_3[1]) + 1),(int)*local_30);
+      sStack_b0 = sStack_b0 + *param_3;
+      sStack_ae = sStack_ae + param_3[1];
+      uStack_ac = CONCAT22(uStack_ac._2_2_ + param_3[1],(short)uStack_ac + *param_3);
+    }
+    iVar6 = FUN_0213050c(&iStack_98,*(undefined4 *)(iStack_34 + 8),&sStack_b0);
+    if (iVar6 != 0) {
+      uVar21 = *(undefined4 *)(iStack_34 + 8);
+      *(int **)(iStack_34 + 8) = &iStack_98;
+      if (*(code **)(iStack_34 + 0x14) != (code *)0x0) {
+        (**(code **)(iStack_34 + 0x14))(iStack_34,local_30,param_3,*(undefined4 *)(iVar5 + 0x18));
+      }
+      *(undefined4 *)(iStack_34 + 8) = uVar21;
+    }
+    goto LAB_0214a0f2;
+  }
+  iVar6 = FUN_0213050c(&sStack_70,*(undefined4 *)(iStack_34 + 8),param_3);
+  puVar4 = DAT_02149bf0;
+  if (iVar6 == 0) goto LAB_0214a0f2;
+  uVar12 = *(uint *)(iVar5 + 0x14) & 0x1f;
+  if (uVar12 == 0x1a || uVar12 == 0x1b) {
+    iVar19 = 0;
+    iVar6 = 0;
+    uStack_8c = 0;
+    if ((code *)*DAT_02149c18 != (code *)0x0) {
+      iVar6 = (*(code *)*DAT_02149c18)(0x200);
+    }
+    if ((code *)*puVar4 != (code *)0x0) {
+      iVar19 = (*(code *)*puVar4)(&uStack_8c);
+    }
+    uVar12 = FUN_021496a0(*(byte *)(iVar5 + 0x14) & 0x1f);
+    uVar12 = uVar12 >> 3;
+    uVar20 = ((uStack_8c / uVar12) * uVar12) /
+             (((*(uint *)(iVar5 + 0x14) & 0x1fffff) >> 10) * uVar12);
+    uVar23 = uVar20 & 0xffff;
+    if ((iVar19 == 0 || uVar23 == 0) || iVar6 == 0) {
+      FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__02149bb8,0x166,DAT_02149bb4);
+      if ((code *)*DAT_02149c14 != (code *)0x0) {
+        (*(code *)*DAT_02149c14)(iVar19);
+      }
+      (*(code *)*DAT_02149c3c)(iVar6);
+      FUN_021554ae(iVar5);
+      return 0;
+    }
+    uStack_5c = *(undefined4 *)(iStack_34 + 8);
+    sStack_68 = sStack_70;
+    sStack_66 = sStack_6e;
+    sStack_64 = sStack_6c;
+    sStack_62 = sStack_6a;
+    FUN_02130486(&sStack_68,(int)(short)uVar20);
+    sStack_68 = *param_3;
+    sStack_64 = param_3[2];
+    iVar11 = (int)sStack_6e - (int)param_3[1];
+    iVar7 = uStack_8c / uVar12 + iVar19;
+    uStack_90 = 0;
+    uStack_a8 = 0;
+    iVar22 = FUN_02155480(iVar5,0,0,0x200);
+    if (iVar22 != 1) {
+      FUN_021554ae(iVar5);
+      FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__02149bb8,0x184,DAT_02149bb4);
+      pcVar13 = (code *)*DAT_02149c14;
+joined_r0x02149aee:
+      if (pcVar13 != (code *)0x0) {
+        (*pcVar13)(iVar19);
+      }
+      (*(code *)*DAT_0214a04c)(iVar6);
+      FUN_021554ae(iVar5);
+      *(undefined4 *)(iStack_34 + 8) = uStack_5c;
+      return 0;
+    }
+    iVar22 = (int)sStack_6e;
+    if (iVar22 <= sStack_6a) {
+      iStack_60 = uVar12 - 1;
+      do {
+        if (sStack_6a + 1 < (int)(iVar22 + uVar23)) {
+          uVar20 = (sStack_6a - iVar22) + 1;
+          uVar23 = uVar20 & 0xffff;
+          FUN_02130486(&sStack_68,(int)(short)uVar20);
+        }
+        iVar8 = FUN_0213050c(&uStack_58,uStack_5c,&sStack_68);
+        if (iVar8 != 0) {
+          uVar20 = (*(uint *)(iVar5 + 0x14) & 0x1fffff) >> 10;
+          uStack_a8 = uVar20 * iVar11 * iStack_60 + 0x200;
+          uStack_90 = uVar20 * uVar23 * iStack_60;
+          iVar8 = FUN_02155480(iVar5,uStack_a8 & 0x7fff,(uStack_a8 & 0x3fffffff) >> 0xf,uStack_90);
+          if (iVar8 != 1) {
+            FUN_021554ae(iVar5);
+            FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__02149bb8,0x1a2,DAT_0214a044);
+            pcVar13 = (code *)*DAT_0214a048;
+            goto joined_r0x02149aee;
+          }
+          uStack_b8 = 0;
+          uStack_a8 = 0;
+          if (uStack_90 != 0) {
+            do {
+              puVar10 = (undefined1 *)(iVar6 + (uint)*(byte *)(iVar7 + uStack_b8) * 2);
+              *(undefined1 *)(iVar19 + uStack_a8) = *puVar10;
+              *(undefined1 *)(iVar19 + uStack_a8 + 1) = puVar10[1];
+              uVar20 = uStack_b8 + 1;
+              uVar16 = uStack_a8 + 2;
+              if (uVar12 == 3) {
+                *(undefined1 *)(iVar19 + uStack_a8 + 2) = *(undefined1 *)(iVar7 + uStack_b8 + 1);
+                uVar20 = uStack_b8 + 2;
+                uVar16 = uStack_a8 + 3;
+              }
+              uStack_a8 = uVar16;
+              uStack_b8 = uVar20;
+            } while (uStack_b8 < uStack_90);
+          }
+          *(uint **)(iStack_34 + 8) = &uStack_58;
+          if (*(code **)(iStack_34 + 0x14) != (code *)0x0) {
+            (**(code **)(iStack_34 + 0x14))(iStack_34,local_30,&sStack_68,iVar19);
+          }
+          iVar11 = iVar11 + uVar23;
+          sStack_66 = sStack_66 + (short)uVar23;
+          sStack_62 = sStack_62 + (short)uVar23;
+        }
+        iVar22 = iVar22 + uVar23;
+      } while (iVar22 <= sStack_6a);
+    }
+    if ((code *)*DAT_0214a048 != (code *)0x0) {
+      (*(code *)*DAT_0214a048)(iVar19);
+    }
+    pcVar13 = (code *)*DAT_0214a04c;
+  }
+  else {
+    if (uVar12 != 0x18 && uVar12 != 0x19) {
+      uVar12 = FUN_021496a0(*(uint *)(iVar5 + 0x14) & 0x1f);
+      if (uVar12 < 8) {
+        iVar6 = 0;
+        uStack_a8 = (uint)(short)((sStack_6c - sStack_70) + 1);
+        iStack_a4 = uStack_a8 * 3;
+        if ((code *)*puVar4 != (code *)0x0) {
+          iVar6 = (*(code *)*puVar4)(&iStack_a4);
+          iVar19 = 0;
+          if (iVar6 != 0) {
+            iVar19 = iStack_a4;
+          }
+          if (iVar6 != 0 && iVar19 != 0) {
+            uVar21 = *(undefined4 *)(iStack_34 + 8);
+            uStack_80 = CONCAT22(sStack_6e,sStack_70);
+            uStack_7c = CONCAT22(sStack_6a,sStack_6c);
+            FUN_02130486(&uStack_80,1);
+            sVar3 = *param_3;
+            iVar19 = (int)sStack_6e;
+            iVar22 = iVar19 - param_3[1];
+            if (iVar19 <= sStack_6a) {
+              do {
+                iVar7 = FUN_0213050c(auStack_78,uVar21,&uStack_80);
+                if (iVar7 != 0) {
+                  iVar7 = FUN_02155480(iVar5,(int)(short)(sStack_70 - sVar3),(int)(short)iVar22,
+                                       uStack_a8);
+                  if (iVar7 != 1) {
+                    FUN_021554ae(iVar5);
+                    FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__02149bb8,0x381,DAT_02149bb4);
+                    pcVar13 = (code *)*DAT_02149c14;
+joined_r0x0214a2b6:
+                    if (pcVar13 != (code *)0x0) {
+                      (*pcVar13)(iVar6);
+                    }
+                    FUN_021554ae(iVar5);
+                    *(undefined4 *)(iStack_34 + 8) = uVar21;
+                    return 0;
+                  }
+                  *(undefined1 **)(iStack_34 + 8) = auStack_78;
+                  if (*(code **)(iStack_34 + 0x14) != (code *)0x0) {
+                    (**(code **)(iStack_34 + 0x14))(iStack_34,local_30,&uStack_80,iVar6);
+                  }
+                  uStack_80 = CONCAT22(uStack_80._2_2_ + 1,(undefined2)uStack_80);
+                  uStack_7c = CONCAT22(uStack_7c._2_2_ + 1,(undefined2)uStack_7c);
+                  iVar22 = iVar22 + 1;
+                }
+                iVar19 = iVar19 + 1;
+              } while (iVar19 <= sStack_6a);
+            }
+            pcVar13 = (code *)*DAT_0214a458;
+            goto joined_r0x0214a0ec;
+          }
+        }
+        FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__02149bb8,0x366,DAT_0214a45c);
+        pcVar13 = (code *)*DAT_0214a458;
+      }
+      else {
+        auStack_a0[0] = 0;
+        iVar6 = 0;
+        if ((code *)*puVar4 != (code *)0x0) {
+          iVar6 = (*(code *)*puVar4)(auStack_a0);
+        }
+        uVar12 = FUN_021496a0(*(byte *)(iVar5 + 0x14) & 0x1f);
+        uVar12 = auStack_a0[0] / (((*(uint *)(iVar5 + 0x14) & 0x1fffff) >> 10) * (uVar12 >> 3));
+        uVar20 = uVar12 & 0xffff;
+        if (iVar6 != 0 && uVar20 != 0) {
+          uVar21 = *(undefined4 *)(iStack_34 + 8);
+          uStack_80 = CONCAT22(sStack_6e,sStack_70);
+          uStack_7c = CONCAT22(sStack_6a,sStack_6c);
+          FUN_02130486(&uStack_80,(int)(short)uVar12);
+          iVar19 = (int)sStack_6e;
+          iVar22 = iVar19 - param_3[1];
+          if (iVar19 <= sStack_6a) {
+            do {
+              if (sStack_6a + 1 < (int)(iVar19 + uVar20)) {
+                uVar12 = (sStack_6a - iVar19) + 1;
+                uVar20 = uVar12 & 0xffff;
+                FUN_02130486(&uStack_80,(int)(short)uVar12);
+              }
+              iVar7 = FUN_0213050c(auStack_78,uVar21,&uStack_80);
+              if (iVar7 != 0) {
+                iVar7 = FUN_02155480(iVar5,0,(int)(short)iVar22,
+                                     ((*(uint *)(iVar5 + 0x14) & 0x1fffff) >> 10) * uVar20);
+                if (iVar7 != 1) {
+                  FUN_021554ae(iVar5);
+                  FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__02149bb8,0x3c9,DAT_0214a45c);
+                  pcVar13 = (code *)*DAT_0214a458;
+                  goto joined_r0x0214a2b6;
+                }
+                *(undefined1 **)(iStack_34 + 8) = auStack_78;
+                if (*(code **)(iStack_34 + 0x14) != (code *)0x0) {
+                  (**(code **)(iStack_34 + 0x14))(iStack_34,local_30,&uStack_80,iVar6);
+                }
+                iVar22 = iVar22 + uVar20;
+                uStack_80 = CONCAT22(uStack_80._2_2_ + (short)uVar20,(undefined2)uStack_80);
+                uStack_7c = CONCAT22(uStack_7c._2_2_ + (short)uVar20,(undefined2)uStack_7c);
+              }
+              iVar19 = iVar19 + uVar20;
+            } while (iVar19 <= sStack_6a);
+          }
+          pcVar13 = (code *)*DAT_0214a458;
+          goto joined_r0x0214a0ec;
+        }
+        FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__02149bb8,0x3a7,DAT_0214a45c);
+        pcVar13 = (code *)*DAT_0214a458;
+      }
+      if (pcVar13 != (code *)0x0) {
+        (*pcVar13)(iVar6);
+      }
+LAB_02149e30:
+      FUN_021554ae(iVar5);
+      return 0;
+    }
+    auStack_48[0] = 0;
+    iVar6 = 0;
+    if ((code *)*DAT_02149bf0 != (code *)0x0) {
+      iVar6 = (*(code *)*DAT_02149bf0)(auStack_48);
+    }
+    uVar12 = FUN_021496a0(*(byte *)(iVar5 + 0x14) & 0x1f);
+    uVar12 = uVar12 >> 3;
+    uVar20 = (auStack_48[0] >> 1) / (uVar12 * (((*(uint *)(iVar5 + 0x14) & 0x1fffff) >> 10) + 8));
+    uVar23 = uVar20 & 0xffff;
+    if (iVar6 == 0 || uVar23 == 0) {
+      FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__02149bb8,0x1d9,DAT_0214a044);
+      if ((code *)*DAT_0214a048 != (code *)0x0) {
+        (*(code *)*DAT_0214a048)(iVar6);
+      }
+      goto LAB_02149e30;
+    }
+    uStack_4c = *(undefined4 *)(iStack_34 + 8);
+    sStack_88 = sStack_70;
+    sStack_86 = sStack_6e;
+    sStack_84 = sStack_6c;
+    sStack_82 = sStack_6a;
+    FUN_02130486(&sStack_88,(int)(short)uVar20);
+    sStack_88 = *param_3;
+    sStack_84 = param_3[2];
+    uStack_7c = 0;
+    iStack_98 = 0;
+    uStack_90 = 0;
+    iVar19 = (int)sStack_6e - (int)param_3[1];
+    uStack_ac = 0;
+    uVar20 = *(uint *)(iVar5 + 0x14);
+    uStack_80 = FUN_021554ee(iVar5);
+    if (uStack_80 < DAT_0214a050) {
+LAB_02149e38:
+      FUN_021554ae(iVar5);
+      FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__02149bb8,0x1ff,DAT_0214a044);
+      pcVar13 = (code *)*DAT_0214a048;
+joined_r0x02149fa6:
+      if (pcVar13 != (code *)0x0) {
+        (*pcVar13)(iVar6);
+      }
+      FUN_021554ae(iVar5);
+      *(undefined4 *)(iStack_34 + 8) = uStack_4c;
+      return 0;
+    }
+    uVar16 = *(uint *)(iVar5 + 0x14);
+    if (0x3000000 < uStack_80 + (uVar16 >> 0x15) * 2 + 4) goto LAB_02149e38;
+    iStack_98 = (uVar16 >> 0x15) << 1;
+    uVar9 = 0;
+    iVar22 = uStack_80 + 4;
+    if (uVar16 >> 0x15 != 0) {
+      do {
+        uVar14 = (uint)*(ushort *)(iVar22 + uVar9 * 2);
+        if (uVar12 * ((uVar20 & 0x1fffff) >> 10) + 8 < uVar14) {
+          FUN_021554ae(iVar5);
+          pcVar13 = (code *)*DAT_0214a048;
+          goto joined_r0x02149fa6;
+        }
+        if ((int)uVar9 < iVar19) {
+          iStack_98 = uVar14 + iStack_98;
+        }
+        uVar9 = uVar9 + 1 & 0xffff;
+      } while (uVar9 < uVar16 >> 0x15);
+    }
+    iStack_a4 = (int)sStack_6e;
+    if (iStack_a4 <= sStack_6a) {
+      do {
+        if (sStack_6a + 1 < (int)(iStack_a4 + uVar23)) {
+          uVar20 = (sStack_6a - iStack_a4) + 1;
+          uVar23 = uVar20 & 0xffff;
+          FUN_02130486(&sStack_88,(int)(short)uVar20);
+        }
+        iVar7 = FUN_0213050c(auStack_40,uStack_4c,&sStack_88);
+        if (iVar7 != 0) {
+          uStack_7c = 0;
+          if (uVar23 != 0) {
+            uVar20 = uVar23 & 1;
+            if (uVar20 != 0) {
+              uStack_7c = (uint)*(ushort *)(iVar22 + iVar19 * 2);
+            }
+            for (; uVar20 < uVar23; uVar20 = uVar20 + 2 & 0xffff) {
+              uStack_7c = (uint)*(ushort *)(iVar22 + (iVar19 + uVar20) * 2 + 2) +
+                          *(ushort *)(iVar22 + (iVar19 + uVar20) * 2) + uStack_7c;
+            }
+          }
+          uVar20 = uStack_80 + iStack_98;
+          if ((uVar20 < DAT_0214a050) || (0x3000000 < uStack_7c + uVar20 + 4)) {
+            FUN_021554ae(iVar5);
+            FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__02149bb8,0x23c,DAT_0214a044);
+            pcVar13 = (code *)*DAT_0214a048;
+            goto joined_r0x02149fa6;
+          }
+          iVar7 = uVar20 + 4;
+          uStack_b8 = 0;
+          iStack_98 = iStack_98 + uStack_7c;
+          uStack_90 = 0;
+          if (uStack_7c != 0) {
+            do {
+              uStack_ac = (uint)*(byte *)(iVar7 + uStack_b8);
+              if (uStack_ac == 0) {
+                uStack_ac = uVar12 * *(byte *)(iVar7 + uStack_b8 + 1);
+                uStack_58 = uStack_90 + uStack_ac;
+                if (uVar12 * ((*(uint *)(iVar5 + 0x14) & 0x1fffff) >> 10) * uVar23 < uStack_58) {
+                  FUN_021554ae(iVar5);
+                  pcVar13 = (code *)*DAT_0214a048;
+                  goto joined_r0x02149fa6;
+                }
+                puVar15 = (undefined1 *)(iVar6 + uStack_90);
+                puVar10 = (undefined1 *)(uStack_b8 + 2 + iVar7);
+                if (uStack_ac != 0) {
+                  uVar20 = uStack_ac;
+                  if (uStack_ac < 0x80000000) {
+                    if (0 < (int)(uStack_ac - 1)) {
+                      puVar17 = puVar10 + -1;
+                      puVar18 = puVar15 + -1;
+                      if ((uStack_ac & 1) == 0) {
+                        *puVar15 = *puVar10;
+                        puVar17 = puVar10;
+                        puVar18 = puVar15;
+                      }
+                      uVar1 = puVar17[1];
+                      for (iVar11 = (int)(uStack_ac - 1) >> 1; iVar11 != 0; iVar11 = iVar11 + -1) {
+                        uVar2 = puVar17[2];
+                        puVar18[1] = uVar1;
+                        uVar1 = puVar17[3];
+                        puVar18 = puVar18 + 2;
+                        *puVar18 = uVar2;
+                        puVar17 = puVar17 + 2;
+                      }
+                    }
+                    iVar11 = uStack_ac - 1;
+                    if (-1 < iVar11) {
+                      puVar10 = (undefined1 *)(uint)(byte)puVar10[iVar11];
+                    }
+                    if (-1 < iVar11) {
+                      puVar15[iVar11] = (char)puVar10;
+                    }
+                  }
+                  else {
+                    do {
+                      *puVar15 = *puVar10;
+                      uVar20 = uVar20 - 1;
+                      puVar10 = puVar10 + 1;
+                      puVar15 = puVar15 + 1;
+                    } while (uVar20 != 0);
+                  }
+                }
+                uStack_b8 = uStack_ac + uStack_b8 + 2;
+                uStack_90 = uStack_58;
+                uStack_54 = uStack_ac;
+              }
+              else {
+                if (uStack_ac == 0xff) {
+                  uStack_b8 = uStack_b8 + 1;
+                  uStack_ac = *(byte *)(iVar7 + uStack_b8) + 0xff;
+                }
+                iVar11 = uStack_b8 + 1;
+                if (uVar12 * ((*(uint *)(iVar5 + 0x14) & 0x1fffff) >> 10) * uVar23 <
+                    uStack_ac * uVar12 + uStack_90) {
+                  FUN_021554ae(iVar5);
+                  pcVar13 = (code *)*DAT_0214a458;
+                  goto joined_r0x02149fa6;
+                }
+                if (uVar12 == 3) {
+                  uVar20 = 0;
+                  if (uStack_ac != 0) {
+                    do {
+                      uVar16 = 1;
+                      *(undefined1 *)(iVar6 + uStack_90) = *(undefined1 *)(iVar7 + iVar11);
+                      uStack_90 = uStack_90 + 1;
+                      do {
+                        *(undefined1 *)(iVar6 + uStack_90) =
+                             *(undefined1 *)(iVar7 + iVar11 + uVar16);
+                        *(undefined1 *)(iVar6 + uStack_90 + 1) =
+                             *(undefined1 *)(iVar11 + uVar16 + iVar7 + 1);
+                        uVar16 = uVar16 + 2 & 0xffff;
+                        uStack_90 = uStack_90 + 2;
+                      } while (uVar16 < 3);
+                      uVar20 = uVar20 + 1 & 0xffff;
+                    } while (uVar20 < uStack_ac);
+                  }
+                }
+                else {
+                  FUN_0215d73c((int)*(short *)(iVar7 + iVar11),uStack_90 + iVar6,uStack_ac);
+                  uStack_90 = uStack_90 + uStack_ac * 2;
+                }
+                uStack_b8 = iVar11 + uVar12;
+              }
+            } while (uStack_b8 < uStack_7c);
+          }
+          *(undefined1 **)(iStack_34 + 8) = auStack_40;
+          if (*(code **)(iStack_34 + 0x14) != (code *)0x0) {
+            (**(code **)(iStack_34 + 0x14))(iStack_34,local_30,&sStack_88,iVar6);
+          }
+          iVar19 = iVar19 + uVar23;
+          sStack_86 = sStack_86 + (short)uVar23;
+          sStack_82 = sStack_82 + (short)uVar23;
+        }
+        iStack_a4 = iStack_a4 + uVar23;
+      } while (iStack_a4 <= sStack_6a);
+    }
+    pcVar13 = (code *)*DAT_0214a458;
+joined_r0x0214a0ec:
+    if (pcVar13 == (code *)0x0) goto LAB_0214a0f2;
+  }
+  (*pcVar13)(iVar6);
+LAB_0214a0f2:
+  FUN_021554ae(iVar5);
+  return 1;
+}
+
+ (GhidraScript)  
+from src\app\watch\Gui\LVGL\src\draw\lv_draw_img.c (GhidraScript)  
+/* WARNING: Restarted to delay deadcode elimination for space: stack */
+
+void FUN_0214a34a(int param_1,int param_2,undefined4 param_3,int param_4)
+
+{
+  int iVar1;
+  undefined1 auStack_78 [4];
+  undefined2 local_74;
+  undefined1 auStack_40 [36];
+  
+  if (param_4 == 0) {
+    FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__02149bb8,0x41,DAT_0214a478);
+    FUN_0214acf0(auStack_78);
+    local_74 = 0xffff;
+    FUN_0214adf6(param_1,auStack_78,param_3);
+    FUN_0214a4b4(auStack_40);
+    FUN_0214a538(param_1,auStack_40,param_3,s_No_data_0214a47c);
+    return;
+  }
+  if (2 < *(byte *)(param_2 + 0xb)) {
+    if (*(code **)(param_1 + 0x18) == (code *)0x0) {
+      iVar1 = FUN_02149730(param_1);
+    }
+    else {
+      iVar1 = (**(code **)(param_1 + 0x18))();
+    }
+    if (iVar1 == 0) {
+      FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__02149bb8,0x51,DAT_0214a478);
+      FUN_0214acf0(auStack_78);
+      FUN_0214adf6(param_1,auStack_78,param_3);
+      FUN_0214a4b4(auStack_40);
+      FUN_0214a538(param_1,auStack_40,param_3,s_No_data_0214a47c);
+      return;
+    }
+    return;
+  }
+  return;
+}
+
+ (GhidraScript)  
+from src\app\watch\Gui\LVGL\src\draw\lv_img_buf.c (GhidraScript)  
+void FUN_0214b284(byte *param_1,uint param_2,ushort param_3)
+
+{
+  uint uVar1;
+  byte bVar2;
+  uint local_c;
+  
+  bVar2 = *param_1 & 0x1f;
+  if ((((bVar2 != 0xb) || (param_2 < 2)) && ((bVar2 != 0xc || (param_2 < 4)))) &&
+     (((bVar2 != 0xd || (param_2 < 0x10)) && (bVar2 != 0xe)))) {
+    uVar1 = (uint)param_3;
+    local_c = (((uVar1 & 0xff) >> 3) * 0x107 + 7 >> 5 & 0xff) << 0x10 |
+              (((uVar1 & 7) * 8 + (uint)(param_3 >> 0xd)) * 0x103 + 3 >> 6 & 0xff) << 8 |
+              ((uVar1 & 0x1fff) >> 8) * 0x107 + 7 >> 5 & 0xff | 0xff000000;
+    FUN_0214bc20(*(int *)(param_1 + 8) + param_2 * 4,&local_c,4);
+    return;
+  }
+  FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__0214b448,0x139,DAT_0214b444,
+               s_lv_img_buf_set_px_alpha__invalid_0214b41c);
+  return;
+}
+
+ (GhidraScript)  
+from src\app\watch\Gui\LVGL\src\draw\lv_img_cache.c (GhidraScript)  
+int FUN_0215a140(undefined4 param_1,undefined4 param_2,undefined4 param_3,undefined4 param_4)
+
+{
+  int iVar1;
+  undefined4 uVar2;
+  int iVar3;
+  
+  iVar1 = DAT_0215a1bc;
+  uVar2 = FUN_02141a78();
+  iVar3 = FUN_0215538c(iVar1,param_1,param_2,param_3,param_4);
+  if (iVar3 != 0) {
+    *(undefined4 *)(iVar1 + 0x28) = 0;
+    if (*(int *)(iVar1 + 0x1c) == 0) {
+      iVar3 = FUN_02141a7e(uVar2);
+      *(int *)(iVar1 + 0x1c) = iVar3;
+      if (iVar3 == 0) {
+        *(undefined4 *)(iVar1 + 0x1c) = 1;
+      }
+    }
+    return iVar1;
+  }
+  FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__0215a1f0,0x7d,DAT_0215a1ec,
+               s_Image_draw_cannot_open_the_image_0215a1c0);
+  FUN_0213e494(iVar1,0x2c);
+  *(undefined4 *)(iVar1 + 0x28) = 0x80000000;
+  return 0;
+}
+
+ (GhidraScript)  
+from src\app\watch\Gui\LVGL\src\draw\lv_img_decoder.c (GhidraScript)  
+int FUN_0215538c(int *param_1,int param_2,undefined2 param_3,int param_4)
+
+{
+  int iVar1;
+  undefined4 *puVar2;
+  undefined4 *puVar3;
+  int iVar4;
+  code *pcVar5;
+  undefined8 uVar6;
+  
+  FUN_0213e494(param_1,0x28);
+  if (param_2 != 0) {
+    uVar6 = FUN_0214a492(param_2);
+    iVar4 = (int)((ulonglong)uVar6 >> 0x20);
+    iVar1 = (int)uVar6;
+    if (iVar1 == 0) {
+      iVar4 = *(int *)(param_2 + 8);
+    }
+    if (iVar1 != 0 || iVar4 != 0) {
+      *(undefined2 *)(param_1 + 2) = param_3;
+      *(char *)(param_1 + 4) = (char)uVar6;
+      param_1[3] = param_4;
+      if (iVar1 == 1) {
+        iVar4 = thunk_EXT_FUN_0001f5cc(param_2);
+        iVar4 = FUN_0213dd1e(iVar4 + 1);
+        param_1[1] = iVar4;
+        if (iVar4 == 0) {
+          FUN_02141a96(3,s__________src_app_watch_Gui_LVGL__02154bc0,0x83,DAT_02155580);
+          do {
+                    /* WARNING: Do nothing block with infinite loop */
+          } while( true );
+        }
+        thunk_EXT_FUN_0001f584(iVar4,param_2);
+      }
+      else {
+        param_1[1] = param_2;
+      }
+      iVar4 = 0;
+      puVar2 = (undefined4 *)FUN_0212d4dc(DAT_02155524);
+      do {
+        if (puVar2 == (undefined4 *)0x0) {
+          if ((char)param_1[4] == '\x01') {
+            FUN_0213ddd2(param_1[1]);
+          }
+          return iVar4;
+        }
+        pcVar5 = (code *)*puVar2;
+        puVar3 = puVar2;
+        if (pcVar5 != (code *)0x0) {
+          puVar3 = (undefined4 *)puVar2[1];
+        }
+        if ((pcVar5 != (code *)0x0 && puVar3 != (undefined4 *)0x0) &&
+           (iVar4 = (*pcVar5)(puVar2,param_2,param_1 + 5), iVar4 == 1)) {
+          *param_1 = (int)puVar2;
+          iVar4 = (*(code *)puVar2[1])(puVar2,param_1);
+          if (iVar4 == 1) {
+            return 1;
+          }
+          FUN_0213e494(param_1 + 5,4);
+          param_1[8] = 0;
+          param_1[6] = 0;
+          param_1[9] = 0;
+          param_1[7] = 0;
+        }
+        puVar2 = (undefined4 *)FUN_0212d588(DAT_02155524,puVar2);
+      } while( true );
+    }
+  }
+  return 0;
+}
+
+ (GhidraScript)  

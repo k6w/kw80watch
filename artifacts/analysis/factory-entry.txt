@@ -1,0 +1,9 @@
+    /opt/homebrew/Cellar/ghidra/12.1.2/libexec/Ghidra/Processors/PIC/ghidra_scripts (HeadlessAnalyzer)  
+======================================================================
+FACTORY PAGE NAME STRINGS AND REFERRERS
+======================================================================
+FactoryTest            0216eae0   referrers=0
+FactoryCodeTest        0216eb80   referrers=0
+FactoryInputQcNum      0216ec04   referrers=0
+FactoryMainBoardTest   0216ec2c   referrers=0
+DeviceInfo             0216e51c   referrers=0

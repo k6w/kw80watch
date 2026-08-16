@@ -1,0 +1,40 @@
+{
+  "name": "kw80-studio",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run --hot src/server/index.ts",
+    "dev:client": "vite",
+    "dev:full": "concurrently \"bun run dev\" \"bun run dev:client\"",
+    "build": "vite build && bun run build:server",
+    "build:server": "bun build src/server/index.ts --outdir dist --target bun",
+    "start": "NODE_ENV=production bun run dist/index.js",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "bun run src/server/db/migrate.ts",
+    "db:seed": "bun run src/server/db/seed.ts",
+    "db:studio": "drizzle-kit studio"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "bcryptjs": "^3.0.3",
+    "drizzle-orm": "^0.36.0",
+    "hono": "^4.6.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.0.0",
+    "sharp": "^0.33.0",
+    "tailwindcss": "^4.0.0",
+    "zustand": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^3.0.0",
+    "@types/bun": "latest",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.0",
+    "concurrently": "^9.0.0",
+    "drizzle-kit": "^0.28.0",
+    "typescript": "^5.6.0",
+    "vite": "^6.0.0"
+  }
+}

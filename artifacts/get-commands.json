@@ -1,0 +1,734 @@
+{
+ "GetActivityNum": [
+  111,
+  82,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetAiAgents": [
+  111,
+  99,
+  112,
+  1,
+  0,
+  14,
+  143
+ ],
+ "GetAlarms": [
+  111,
+  156,
+  112,
+  1,
+  0,
+  3,
+  143
+ ],
+ "GetAlbumFilesCount": [
+  111,
+  65,
+  112,
+  1,
+  0,
+  7,
+  143
+ ],
+ "GetAlbumFilesIdList": [
+  111,
+  65,
+  112,
+  1,
+  0,
+  8,
+  143
+ ],
+ "GetAlbumIdleStorage": [
+  111,
+  65,
+  112,
+  1,
+  0,
+  4,
+  143
+ ],
+ "GetBTConnectionState": [
+  111,
+  25,
+  112,
+  1,
+  0,
+  2,
+  143
+ ],
+ "GetBattery": [
+  111,
+  8,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetBatteryAndState": [
+  111,
+  8,
+  112,
+  1,
+  0,
+  1,
+  143
+ ],
+ "GetBindState": [
+  111,
+  148,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetBrightness": [
+  111,
+  7,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetCollectedAllahIndexs": [
+  111,
+  231,
+  112,
+  2,
+  0,
+  8,
+  0,
+  143
+ ],
+ "GetContacts": [
+  111,
+  6,
+  112,
+  1,
+  0,
+  1,
+  143
+ ],
+ "GetContactsNum": [
+  111,
+  6,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetDeviceFeatures": [
+  111,
+  65,
+  112,
+  1,
+  0,
+  2,
+  143
+ ],
+ "GetDeviceID": [
+  111,
+  2,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetDeviceInfo": [
+  111,
+  3,
+  112,
+  1,
+  0,
+  8,
+  143
+ ],
+ "GetDevicePasscode": [
+  111,
+  3,
+  112,
+  1,
+  0,
+  16,
+  143
+ ],
+ "GetDevicePasscodeAndSwitch": [
+  111,
+  3,
+  112,
+  1,
+  0,
+  18,
+  143
+ ],
+ "GetDeviceProtocolVersion": [
+  111,
+  65,
+  112,
+  1,
+  0,
+  9,
+  143
+ ],
+ "GetDeviceSupportedLanguages": [
+  111,
+  11,
+  112,
+  1,
+  0,
+  1,
+  143
+ ],
+ "GetDeviceType": [
+  111,
+  3,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetDeviceWatchfaceVersion": [
+  111,
+  65,
+  112,
+  1,
+  0,
+  10,
+  143
+ ],
+ "GetDisplayDuration": [
+  111,
+  37,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetDrinkWaterReminder": [
+  111,
+  157,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetFaceScreen": [
+  111,
+  5,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetFeatureSwitches": [
+  111,
+  144,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetFirmwareVersion": [
+  111,
+  3,
+  112,
+  1,
+  0,
+  7,
+  143
+ ],
+ "GetFirmwareVersionForTA": [
+  111,
+  3,
+  112,
+  1,
+  0,
+  7,
+  143
+ ],
+ "GetGoal": [
+  111,
+  80,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetGpsStatus": [
+  111,
+  65,
+  112,
+  3,
+  0,
+  5,
+  6,
+  12,
+  143
+ ],
+ "GetHeartrateAlarm": [
+  111,
+  93,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetHeartrateMonitorInterval": [
+  111,
+  92,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetHeartrates": [
+  111,
+  91,
+  112,
+  2,
+  0,
+  0,
+  0,
+  143
+ ],
+ "GetHrv": [
+  111,
+  95,
+  112,
+  2,
+  0,
+  0,
+  0,
+  143
+ ],
+ "GetLanguage": [
+  111,
+  11,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetMapAvailableStorage": [
+  111,
+  65,
+  112,
+  1,
+  0,
+  14,
+  143
+ ],
+ "GetMusicAvailableStorage": [
+  111,
+  65,
+  112,
+  2,
+  0,
+  3,
+  13,
+  143
+ ],
+ "GetMusicIdleStorage": [
+  111,
+  65,
+  112,
+  1,
+  0,
+  3,
+  143
+ ],
+ "GetMuslimWorshipSwitches": [
+  111,
+  231,
+  112,
+  2,
+  0,
+  1,
+  0,
+  143
+ ],
+ "GetNewestHeartrate": [
+  111,
+  98,
+  112,
+  1,
+  0,
+  1,
+  143
+ ],
+ "GetPlateauCare": [
+  111,
+  99,
+  112,
+  1,
+  0,
+  13,
+  143
+ ],
+ "GetQuickReplies": [
+  111,
+  219,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetQuickReplyCount": [
+  111,
+  218,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetReminderAndAlarmNum": [
+  111,
+  156,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetReminderOrAlarmAvailableID": [
+  111,
+  156,
+  112,
+  1,
+  0,
+  4,
+  143
+ ],
+ "GetReminders": [
+  111,
+  156,
+  112,
+  1,
+  0,
+  2,
+  143
+ ],
+ "GetSN": [
+  111,
+  65,
+  112,
+  1,
+  0,
+  11,
+  143
+ ],
+ "GetSedentaryReminder": [
+  111,
+  94,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetSedentaryReminderForLS16": [
+  111,
+  94,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetSleepPoints": [
+  111,
+  86,
+  112,
+  2,
+  0,
+  0,
+  0,
+  143
+ ],
+ "GetSleepState": [
+  111,
+  65,
+  112,
+  1,
+  0,
+  1,
+  143
+ ],
+ "GetSocialAppSwitches": [
+  111,
+  158,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetSocialApps": [
+  111,
+  158,
+  112,
+  1,
+  0,
+  1,
+  143
+ ],
+ "GetSocialAppsOtaAddress": [
+  111,
+  158,
+  112,
+  1,
+  0,
+  2,
+  143
+ ],
+ "GetSpO2Alert": [
+  111,
+  99,
+  112,
+  1,
+  0,
+  3,
+  143
+ ],
+ "GetSpO2MonitorInterval": [
+  111,
+  99,
+  112,
+  1,
+  0,
+  1,
+  143
+ ],
+ "GetSports": [
+  111,
+  84,
+  112,
+  2,
+  0,
+  0,
+  0,
+  143
+ ],
+ "GetStressMonitorInterval": [
+  111,
+  99,
+  112,
+  1,
+  0,
+  2,
+  143
+ ],
+ "GetTimeFormat": [
+  111,
+  15,
+  112,
+  1,
+  0,
+  1,
+  143
+ ],
+ "GetUID": [
+  111,
+  147,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetUnit": [
+  111,
+  12,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetUpgradeStatus": [
+  111,
+  22,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetUserInfo": [
+  111,
+  48,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetVersionForLS": [
+  111,
+  67,
+  112,
+  1,
+  0,
+  1,
+  143
+ ],
+ "GetVolumn": [
+  111,
+  9,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetWalkieTalkieName": [
+  111,
+  19,
+  112,
+  2,
+  0,
+  1,
+  0,
+  143
+ ],
+ "GetWashHandReminder": [
+  111,
+  157,
+  112,
+  1,
+  0,
+  1,
+  143
+ ],
+ "GetWatchfaceID": [
+  111,
+  15,
+  112,
+  1,
+  0,
+  2,
+  143
+ ],
+ "GetWatchfaceIDs": [
+  111,
+  30,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetWatchfaceName": [
+  111,
+  17,
+  112,
+  1,
+  0,
+  1,
+  143
+ ],
+ "GetWatchfaceNameList": [
+  111,
+  17,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetWearHabit": [
+  111,
+  49,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetWorkoutCount": [
+  111,
+  102,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetWorkoutPointCount": [
+  111,
+  188,
+  112,
+  1,
+  0,
+  2,
+  143
+ ],
+ "GetWorkoutPoints": [
+  111,
+  188,
+  112,
+  1,
+  0,
+  1,
+  143
+ ],
+ "GetWorkoutRealtimeData": [
+  111,
+  110,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetWorkoutState": [
+  111,
+  65,
+  112,
+  1,
+  0,
+  0,
+  143
+ ],
+ "GetWorkouts": [
+  111,
+  103,
+  112,
+  2,
+  0,
+  0,
+  1,
+  143
+ ],
+ "GetWorshipCompassStyle": [
+  111,
+  231,
+  112,
+  2,
+  0,
+  9,
+  0,
+  143
+ ]
+}

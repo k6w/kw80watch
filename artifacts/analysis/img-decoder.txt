@@ -1,0 +1,251 @@
+    /opt/homebrew/Cellar/ghidra/12.1.2/libexec/Ghidra/Processors/PIC/ghidra_scripts (HeadlessAnalyzer)  
+======================================================================
+DECOMPILE FUN_0215508a @ 0215508a  (size 222)
+callers:
+    (none)
+======================================================================
+
+undefined4 FUN_0215508a(undefined4 param_1,uint *param_2,uint *param_3)
+
+{
+  uint uVar1;
+  int iVar2;
+  uint uVar3;
+  int iVar4;
+  uint uVar5;
+  undefined1 auStack_1c [12];
+  int local_10;
+  
+  iVar2 = FUN_0214a492(param_2);
+  if (iVar2 == 0) {
+    if (0x17 < (*param_2 & 0x1f) - 4) {
+      return 0;
+    }
+    uVar5 = *param_3;
+    uVar1 = (*param_2 >> 10 & 0x7ff) << 10;
+    *param_3 = uVar5 & 0xffe003ff | uVar1;
+    uVar3 = *param_2;
+    *param_3 = uVar5 & 0x3ff | uVar1 | uVar3 & 0xffe00000;
+    *param_3 = uVar5 & 0x3e0 | uVar1 | uVar3 & 0xffe00000 | (byte)*param_2 & 0x1f;
+  }
+  else if (iVar2 == 1) {
+    iVar2 = FUN_02156938(auStack_1c,param_2,2);
+    if (iVar2 == 0) {
+      iVar4 = FUN_02156a7a(auStack_1c,param_3,4,&local_10);
+      iVar2 = FUN_02156a32(auStack_1c);
+      if (iVar4 == 0) {
+        iVar2 = local_10;
+      }
+      if (iVar4 != 0 || iVar2 != 4) {
+        FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__02154bc0,0x12f,DAT_02155520,
+                     s_Image_get_info_get_read_file_hea_021554fc);
+        return 0;
+      }
+    }
+    if (0x17 < ((byte)*param_3 & 0x1f) - 4) {
+      return 0;
+    }
+  }
+  else {
+    if (iVar2 != 2) {
+      FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__02154bc0,0x140,DAT_021551f8,
+                   s_Image_get_info_found_unknown_src_021551d0);
+      return 0;
+    }
+    *param_3 = (((*param_3 & 0xffe003ff) + 0x400 & 0x1fffff) + 0x200000 & 0xffffffe0) + 0xb;
+  }
+  return 1;
+}
+
+
+======================================================================
+DECOMPILE FUN_02154d1e @ 02154d1e  (size 872)
+callers:
+    (none)
+======================================================================
+
+/* WARNING: Restarted to delay deadcode elimination for space: stack */
+
+undefined4 FUN_02154d1e(undefined4 param_1,int param_2)
+
+{
+  byte bVar1;
+  undefined4 uVar2;
+  uint uVar3;
+  uint uVar4;
+  undefined1 *puVar5;
+  int iVar6;
+  undefined1 *puVar7;
+  int iVar8;
+  int iVar9;
+  undefined4 local_2c;
+  undefined4 uStack_28;
+  undefined1 local_24 [12];
+  
+  if (*(char *)(param_2 + 0x10) == '\x01') {
+    uVar2 = FUN_02157020(*(undefined4 *)(param_2 + 4));
+    iVar8 = thunk_EXT_FUN_00020550(uVar2,&DAT_021550c8);
+    if (iVar8 != 0) {
+      return 0;
+    }
+    iVar8 = FUN_02156938(local_24,*(undefined4 *)(param_2 + 4),2);
+    if (iVar8 != 0) {
+      FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__02154bc0,0x156,DAT_021550f8);
+      return 0;
+    }
+    if (*(int *)(param_2 + 0x24) == 0) {
+      iVar8 = FUN_0213dd1e(0x1c);
+      *(int *)(param_2 + 0x24) = iVar8;
+      if (iVar8 == 0) {
+        local_2c = s_dsc_>user_data____NULL_0215510c;
+        uStack_28 = s_Out_of_memory_021550fc;
+        FUN_02141a96(3,s__________src_app_watch_Gui_LVGL__02154bc0,0x15d,DAT_021550f8);
+        do {
+                    /* WARNING: Do nothing block with infinite loop */
+        } while( true );
+      }
+      FUN_0213e494(iVar8,0x1c);
+    }
+    iVar9 = *(int *)(param_2 + 0x24);
+    puVar7 = (undefined1 *)((int)&uStack_28 + 3);
+    puVar5 = (undefined1 *)(iVar9 + -1);
+    iVar8 = 6;
+    do {
+      puVar5[1] = puVar7[1];
+      puVar7 = puVar7 + 2;
+      puVar5 = puVar5 + 2;
+      *puVar5 = *puVar7;
+      iVar8 = iVar8 + -1;
+    } while (iVar8 != 0);
+    uVar2 = FUN_021570d0(*(undefined4 *)(param_2 + 4));
+    *(undefined4 *)(iVar9 + 0x18) = uVar2;
+  }
+  else if ((*(char *)(param_2 + 0x10) == '\0') && (*(int *)(*(int *)(param_2 + 4) + 8) == 0)) {
+    return 0;
+  }
+  bVar1 = *(byte *)(param_2 + 0x14) & 0x1f;
+  if ((bVar1 == 4 || bVar1 == 5) || bVar1 == 6) {
+    if (*(char *)(param_2 + 0x10) == '\0') {
+LAB_02155078:
+      *(undefined4 *)(param_2 + 0x18) = *(undefined4 *)(*(int *)(param_2 + 4) + 8);
+      return 1;
+    }
+    if (*(int *)(param_2 + 0x24) != 0) {
+      *(int *)(param_2 + 0x18) = *(int *)(*(int *)(param_2 + 0x24) + 0x18) + 4;
+    }
+  }
+  else if ((bVar1 == 7 || bVar1 == 8) || (bVar1 == 9 || bVar1 == 10)) {
+    uVar3 = FUN_021496a0();
+    uVar3 = 1 << (uVar3 & 0xff);
+    if (*(int *)(param_2 + 0x24) == 0) {
+      iVar8 = FUN_0213dd1e(0x1c);
+      *(int *)(param_2 + 0x24) = iVar8;
+      if (iVar8 == 0) {
+        FUN_02141a96(3,s__________src_app_watch_Gui_LVGL__02154bc0,0x1a4,DAT_021550f8);
+        do {
+                    /* WARNING: Do nothing block with infinite loop */
+        } while( true );
+      }
+      FUN_0213e494(iVar8,0x1c);
+    }
+    iVar9 = *(int *)(param_2 + 0x24);
+    iVar8 = FUN_0213dd1e(uVar3 << 1);
+    *(int *)(iVar9 + 0xc) = iVar8;
+    if (iVar8 == 0) {
+      FUN_02141a96(3,s__________src_app_watch_Gui_LVGL__02154bc0,0x1ae,DAT_021550f8);
+      do {
+                    /* WARNING: Do nothing block with infinite loop */
+      } while( true );
+    }
+    iVar8 = FUN_0213dd1e(uVar3);
+    *(int *)(iVar9 + 0x10) = iVar8;
+    if (iVar8 == 0) {
+      FUN_02141a96(3,s__________src_app_watch_Gui_LVGL__02154bc0,0x1b0,DAT_021550f8);
+      do {
+                    /* WARNING: Do nothing block with infinite loop */
+      } while( true );
+    }
+    if (*(int *)(iVar9 + 0xc) == 0) {
+      FUN_02141a96(3,s__________src_app_watch_Gui_LVGL__02154bc0,0x1b2,DAT_021550f8);
+      iVar8 = *(int *)(param_2 + 0x24);
+      if (iVar8 != 0) {
+        if (*(char *)(param_2 + 0x10) == '\x01') {
+          FUN_02156a32(iVar8);
+        }
+        if (*(int *)(iVar8 + 0xc) != 0) {
+          FUN_0213ddd2();
+        }
+        if (*(int *)(iVar8 + 0x10) != 0) {
+          FUN_0213ddd2();
+        }
+        if (*(int *)(iVar8 + 0x14) != 0) {
+          FUN_0213ddd2();
+        }
+        FUN_0213ddd2(iVar8);
+        *(undefined4 *)(param_2 + 0x24) = 0;
+      }
+      return 0;
+    }
+    if (*(char *)(param_2 + 0x10) == '\x01') {
+      FUN_02156c44(iVar9,4,0);
+      uVar4 = 0;
+      if (uVar3 != 0) {
+        do {
+          FUN_02156a7a(iVar9,&local_2c,4,0);
+                    /* WARNING: Ignoring partial resolution of indirect */
+                    /* WARNING: Ignoring partial resolution of indirect */
+          *(ushort *)(*(int *)(iVar9 + 0xc) + uVar4 * 2) =
+               (ushort)(local_2c._1_1_ >> 5) | (ushort)(local_2c._2_1_ >> 3) << 3 |
+               (ushort)((byte)local_2c >> 3) << 8 | (ushort)(local_2c._1_1_ >> 2) << 0xd;
+          *(undefined1 *)(*(int *)(iVar9 + 0x10) + uVar4) = local_2c._3_1_;
+          uVar4 = uVar4 + 1;
+        } while (uVar4 < uVar3);
+      }
+    }
+    else {
+      iVar8 = *(int *)(*(int *)(param_2 + 4) + 8);
+      uVar4 = 0;
+      if (uVar3 != 0) {
+        do {
+          iVar6 = iVar8 + uVar4 * 4;
+                    /* WARNING: Ignoring partial resolution of indirect */
+                    /* WARNING: Ignoring partial resolution of indirect */
+                    /* WARNING: Ignoring partial resolution of indirect */
+          *(ushort *)(*(int *)(iVar9 + 0xc) + uVar4 * 2) =
+               (ushort)(*(byte *)(iVar6 + 1) >> 5) | (ushort)(*(byte *)(iVar6 + 2) >> 3) << 3 |
+               (ushort)(*(byte *)(iVar8 + uVar4 * 4) >> 3) << 8 |
+               (ushort)(*(byte *)(iVar6 + 1) >> 2) << 0xd;
+          *(undefined1 *)(*(int *)(iVar9 + 0x10) + uVar4) = *(undefined1 *)(iVar6 + 3);
+          uVar4 = uVar4 + 1;
+        } while (uVar4 < uVar3);
+      }
+    }
+  }
+  else if ((bVar1 != 0xb && bVar1 != 0xc) && (bVar1 != 0xd && bVar1 != 0xe)) {
+    if ((bVar1 != 0x18 && bVar1 != 0x19) && (bVar1 != 0x1a && bVar1 != 0x1b)) {
+      iVar8 = *(int *)(param_2 + 0x24);
+      if (iVar8 != 0) {
+        if (*(char *)(param_2 + 0x10) == '\x01') {
+          FUN_02156a32(iVar8);
+        }
+        if (*(int *)(iVar8 + 0xc) != 0) {
+          FUN_0213ddd2();
+        }
+        if (*(int *)(iVar8 + 0x10) != 0) {
+          FUN_0213ddd2();
+        }
+        if (*(int *)(iVar8 + 0x14) != 0) {
+          FUN_0213ddd2();
+        }
+        FUN_0213ddd2(iVar8);
+        *(undefined4 *)(param_2 + 0x24) = 0;
+      }
+      FUN_02141a96(2,s__________src_app_watch_Gui_LVGL__02154bc0,0x1e6,DAT_021550f8);
+      return 0;
+    }
+    if (*(char *)(param_2 + 0x10) == '\0') goto LAB_02155078;
+  }
+  return 1;
+}
+
+

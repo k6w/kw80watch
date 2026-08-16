@@ -1,0 +1,236 @@
+{
+  "LM200PLUS": {
+    "version": "1.0.0",
+    "build": 5,
+    "forceUpdate": false,
+    "updateContentKey": "Common_all_language",
+    "updateContent": "Fixed some known issues",
+    "firmwares": [
+      {
+        "id": "1191764499674169344",
+        "companyId": null,
+        "creator": null,
+        "updator": null,
+        "createTime": null,
+        "updateTime": null,
+        "name": "Core1.0.0B05(LM200PLUS).bin",
+        "version": null,
+        "url": "2024-01-02/14bc6fadbf2d4c489c02a9a56184049e/Core1.0.0B05(LM200PLUS).bin",
+        "type": 1,
+        "typeName": null,
+        "md5": "14bc6fadbf2d4c489c02a9a56184049e",
+        "byteSize": null
+      }
+    ],
+    "status": 3,
+    "resource": null
+  },
+  "MOY-7UE4": {
+    "version": "2.0.9",
+    "build": 99,
+    "forceUpdate": false,
+    "updateContentKey": "Common_all_language",
+    "updateContent": "Fixed some known issues",
+    "firmwares": [
+      {
+        "id": "1393322465823817729",
+        "companyId": null,
+        "creator": null,
+        "updator": null,
+        "createTime": 1752235562532,
+        "updateTime": 1752235562532,
+        "name": "MOY-7UE4-2.0.9-BIN-ENCRYPTED.ufw",
+        "version": null,
+        "url": "2025-07-11/bb1fa75633f82fdb6802ffb67f811e94/MOY-7UE4-2.0.9-BIN-ENCRYPTED.ufw",
+        "type": 1,
+        "typeName": null,
+        "md5": "bb1fa75633f82fdb6802ffb67f811e94",
+        "byteSize": null
+      }
+    ],
+    "status": 3,
+    "resource": null
+  },
+  "MOY-9ZF2": {
+    "version": "2.0.6",
+    "build": 0,
+    "forceUpdate": false,
+    "updateContentKey": "Common_all_language",
+    "updateContent": "Fixed some known issues",
+    "firmwares": [
+      {
+        "id": "1462825075337068544",
+        "companyId": null,
+        "creator": null,
+        "updator": null,
+        "createTime": 1768806275936,
+        "updateTime": 1768806275936,
+        "name": "MOY-9ZF2-2.0.6-BIN-2EB54496-ENCRYPTED.ufw",
+        "version": null,
+        "url": "2026-01-19/4a4944aa6422aed48d6c75ac57bec7a7/MOY-9ZF2-2.0.6-BIN-2EB54496-ENCRYPTED.ufw",
+        "type": 1,
+        "typeName": null,
+        "md5": "4a4944aa6422aed48d6c75ac57bec7a7",
+        "byteSize": null
+      }
+    ],
+    "status": 3,
+    "resource": null
+  },
+  "MOY-ABY3": {
+    "version": "2.0.2",
+    "build": 0,
+    "forceUpdate": false,
+    "updateContentKey": "Common_all_language",
+    "updateContent": "Fixed some known issues",
+    "firmwares": [
+      {
+        "id": "1408152925892509696",
+        "companyId": null,
+        "creator": null,
+        "updator": null,
+        "createTime": 1755771419749,
+        "updateTime": 1755771419749,
+        "name": "MOY-ABY3-2.0.2-BIN-ENCRYPTED.fot",
+        "version": null,
+        "url": "2025-08-21/8a4dd4ad2f2f8bddffbad1780e9026f6/MOY-ABY3-2.0.2-BIN-ENCRYPTED.fot",
+        "type": 1,
+        "typeName": null,
+        "md5": "8a4dd4ad2f2f8bddffbad1780e9026f6",
+        "byteSize": null
+      }
+    ],
+    "status": 3,
+    "resource": null
+  },
+  "MOY-VZ42": {
+    "version": "2.0.1",
+    "build": 0,
+    "forceUpdate": false,
+    "updateContentKey": "Common_all_language",
+    "updateContent": "Fixed some known issues",
+    "firmwares": [
+      {
+        "id": "1407728601607962624",
+        "companyId": null,
+        "creator": null,
+        "updator": null,
+        "createTime": 1755670252956,
+        "updateTime": 1755670252956,
+        "name": "MOY-VZ42-2.0.1-BIN-ENCRYPTED.ufw",
+        "version": null,
+        "url": "2025-08-20/6d18953d5226df746685e10105e3d637/MOY-VZ42-2.0.1-BIN-ENCRYPTED.ufw",
+        "type": 1,
+        "typeName": null,
+        "md5": "6d18953d5226df746685e10105e3d637",
+        "byteSize": null
+      }
+    ],
+    "status": 3,
+    "resource": null
+  },
+  "MOY-W934": {
+    "version": "2.0.5",
+    "build": 0,
+    "forceUpdate": true,
+    "updateContentKey": "固件最新升级提示",
+    "updateContent": "!! Before upgrading the firmware, please ensure the watch data is synchronized to the App to avoid data loss !!\n1. Watch storage space optimization, can store more exercise data simultaneously;\n2. Fixed known issues.",
+    "firmwares": [
+      {
+        "id": "1483431533325844481",
+        "companyId": null,
+        "creator": null,
+        "updator": null,
+        "createTime": 1773719238370,
+        "updateTime": 1773719238370,
+        "name": "MOY-W934-2.0.5-BIN-96465680-ENCRYPTED.ufw",
+        "version": null,
+        "url": "2026-03-17/75642585d3ce81dc213bdab6b4fcfd91/MOY-W934-2.0.5-BIN-96465680-ENCRYPTED.ufw",
+        "type": 1,
+        "typeName": null,
+        "md5": "75642585d3ce81dc213bdab6b4fcfd91",
+        "byteSize": null
+      }
+    ],
+    "status": 3,
+    "resource": null
+  },
+  "MOY-WAP2": {
+    "version": "2.0.3",
+    "build": 0,
+    "forceUpdate": false,
+    "updateContentKey": "Common_all_language",
+    "updateContent": "Fixed some known issues",
+    "firmwares": [
+      {
+        "id": "1487021867024777216",
+        "companyId": null,
+        "creator": null,
+        "updator": null,
+        "createTime": 1774575240629,
+        "updateTime": 1774575240629,
+        "name": "MOY-WAP2-2.0.3-BIN-7812B698-ENCRYPTED.ufw",
+        "version": null,
+        "url": "2026-03-27/a090724cf358da8a49dfedc0fccfd56f/MOY-WAP2-2.0.3-BIN-7812B698-ENCRYPTED.ufw",
+        "type": 1,
+        "typeName": null,
+        "md5": "a090724cf358da8a49dfedc0fccfd56f",
+        "byteSize": null
+      }
+    ],
+    "status": 3,
+    "resource": null
+  },
+  "SWC01": {
+    "version": "1.0.1",
+    "build": 3,
+    "forceUpdate": false,
+    "updateContentKey": "",
+    "updateContent": "",
+    "firmwares": [
+      {
+        "id": "1019983910609616897",
+        "companyId": null,
+        "creator": null,
+        "updator": null,
+        "createTime": null,
+        "updateTime": null,
+        "name": "Core1.0.1B03(KW213_AB).bin",
+        "version": null,
+        "url": "2022-09-15/61397e18cf7b65b82ca91c520ec09d3c/Core1.0.1B03(KW213_AB).bin",
+        "type": 1,
+        "typeName": null,
+        "md5": "61397e18cf7b65b82ca91c520ec09d3c",
+        "byteSize": null
+      }
+    ],
+    "status": 3,
+    "resource": null
+  },
+  "SWC05": {
+    "version": "1.0.1",
+    "build": 1,
+    "forceUpdate": false,
+    "updateContentKey": "KW303AB_101",
+    "updateContent": "1. Optimize interface display\n2. Optimize sleep monitoring\n3. Fix some known problems",
+    "firmwares": [
+      {
+        "id": "1060649625448349697",
+        "companyId": null,
+        "creator": null,
+        "updator": null,
+        "createTime": null,
+        "updateTime": null,
+        "name": "Core1.0.1B01(KW303_AB).bin",
+        "version": null,
+        "url": "2022-12-30/985efda792843bd3e0e4e3c792b32794/Core1.0.1B01(KW303_AB).bin",
+        "type": 1,
+        "typeName": null,
+        "md5": "985efda792843bd3e0e4e3c792b32794",
+        "byteSize": null
+      }
+    ],
+    "status": 3,
+    "resource": null
+  }
+}

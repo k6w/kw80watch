@@ -1,0 +1,96 @@
+    /opt/homebrew/Cellar/ghidra/12.1.2/libexec/Ghidra/Processors/PIC/ghidra_scripts (HeadlessAnalyzer)  
+======================================================================
+no function at 02143ca6 — creating one
+DECOMPILE FUN_02143ca6 @ 02143ca6  (size 280)
+callers:
+    (none)
+======================================================================
+
+void FUN_02143ca6(void)
+
+{
+  char cVar1;
+  int iVar2;
+  int iVar3;
+  undefined4 *puVar4;
+  int iVar5;
+  undefined4 *puVar6;
+  byte bVar7;
+  int iVar8;
+  undefined4 uVar9;
+  undefined4 uStack_18;
+  short sStack_14;
+  short sStack_12;
+  
+  iVar2 = DAT_02143e98;
+  *(byte *)(DAT_02143e98 + 0x690) = *(byte *)(DAT_02143e98 + 0x690) & 0xfd | 2;
+  *(undefined1 *)(iVar2 + 0x5d7) = 4;
+  FUN_020cce8c(0);
+  *(byte *)(iVar2 + 0x68e) = *(byte *)(iVar2 + 0x68e) & 0xbf;
+  bVar7 = FUN_020e7020();
+  *(byte *)(iVar2 + 0x68e) = *(byte *)(iVar2 + 0x68e) & 0xbf | (bVar7 & 1) << 6;
+  puVar6 = DAT_02143ea8;
+  iVar5 = DAT_02143ea4;
+  puVar4 = DAT_02143ea0;
+  iVar3 = DAT_02143e9c;
+  do {
+    do {
+    } while (-1 < (int)((uint)*(byte *)(iVar2 + 0x68e) << 0x19));
+    iVar8 = FUN_02143bac();
+    if (iVar8 != 0) {
+      cVar1 = *(char *)(iVar2 + 0x5d7);
+      if (cVar1 == '\0') {
+        FUN_020cce8c(1);
+      }
+      else {
+        if (cVar1 == '\x01') {
+          uVar9 = 2;
+        }
+        else {
+          if (cVar1 != '\x02') goto LAB_02143d2c;
+          uVar9 = 3;
+        }
+        FUN_020cce8c(uVar9);
+      }
+    }
+LAB_02143d2c:
+    if (*(char *)(iVar2 + 0x5d7) == '\x03' || *(char *)(iVar2 + 0x5d7) == '\x04') {
+      *(undefined4 *)(iVar5 + 0x10) = 0xffffffff;
+    }
+    uStack_18 = 0x195;
+    iVar8 = (*(code *)*puVar4)(*(undefined4 *)(iVar5 + 0xc),&sStack_14,*(undefined4 *)(iVar5 + 0x10)
+                               ,DAT_02143eac);
+    if (iVar8 == 0) {
+LAB_02143db0:
+      if (*(char *)(iVar2 + 0x5d7) != '\x03' && *(char *)(iVar2 + 0x5d7) != '\x04')
+      goto LAB_02143d78;
+    }
+    else {
+      *(undefined4 *)(iVar5 + 0x10) = 0;
+      if (sStack_14 == 7) {
+        FUN_020ce1fe(&sStack_14);
+        goto LAB_02143db0;
+      }
+      if ((sStack_14 != 8) || (*(char *)(iVar2 + 0x5d7) != '\0')) goto LAB_02143db0;
+      if (sStack_12 == 0) {
+        uStack_18 = 0xf;
+        uVar9 = FUN_020cf73c();
+        FUN_0214089e(uVar9,0x30,&uStack_18);
+        (**(code **)(iVar3 + 0x2c))();
+        goto LAB_02143db0;
+      }
+      if (sStack_12 == 1) {
+        uStack_18 = 0x10;
+        uVar9 = FUN_020cf73c();
+        FUN_0214089e(uVar9,0x30,&uStack_18);
+        (**(code **)(iVar3 + 0x2c))();
+        goto LAB_02143db0;
+      }
+LAB_02143d78:
+      thunk_FUN_0213d85c();
+    }
+    (*(code *)*puVar6)(1);
+  } while( true );
+}
+
+

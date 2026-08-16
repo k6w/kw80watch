@@ -1,0 +1,2 @@
+    /opt/homebrew/Cellar/ghidra/12.1.2/libexec/Ghidra/Processors/PIC/ghidra_scripts (HeadlessAnalyzer)  
+total: 1 (GhidraScript)  

@@ -1,0 +1,47 @@
+{
+ "GetAlbumIdleStorage": {
+  "cmd": "6f 41 70 01 00 04 8f",
+  "raw": "6f 01 81 02 00 41 02 8f",
+  "body": "41 02"
+ },
+ "GetDeviceFeatures": {
+  "cmd": "6f 41 70 01 00 02 8f",
+  "raw": "6f 01 81 02 00 41 02 8f",
+  "body": "41 02"
+ },
+ "GetDeviceProtocolVersion": {
+  "cmd": "6f 41 70 01 00 09 8f",
+  "raw": "6f 01 81 02 00 41 02 8f",
+  "body": "41 02"
+ },
+ "GetDeviceWatchfaceVersion": {
+  "cmd": "6f 41 70 01 00 0a 8f",
+  "raw": "6f 01 81 02 00 41 02 8f",
+  "body": "41 02"
+ },
+ "GetMusicAvailableStorage": {
+  "cmd": "6f 41 70 02 00 03 0d 8f",
+  "raw": "6f 01 81 02 00 41 02 8f",
+  "body": "41 02"
+ },
+ "GetSN": {
+  "cmd": "6f 41 70 01 00 0b 8f",
+  "raw": "6f 01 81 02 00 41 02 8f",
+  "body": "41 02"
+ },
+ "GetWatchfaceID": {
+  "cmd": "6f 0f 70 01 00 02 8f",
+  "raw": "6f 01 81 02 00 0f 02 8f",
+  "body": "0f 02"
+ },
+ "GetWatchfaceIDs": {
+  "cmd": "6f 1e 70 01 00 00 8f",
+  "raw": "6f 1e 80 05 00 00 00 00 00 00 8f",
+  "body": "00 00 00 00 00"
+ },
+ "GetWatchfaceNameList": {
+  "cmd": "6f 11 70 01 00 00 8f",
+  "raw": "6f 01 81 02 00 11 02 8f",
+  "body": "11 02"
+ }
+}

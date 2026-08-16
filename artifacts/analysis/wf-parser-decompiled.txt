@@ -1,0 +1,216 @@
+    /opt/homebrew/Cellar/ghidra/12.1.2/libexec/Ghidra/Processors/PIC/ghidra_scripts (HeadlessAnalyzer)  
+base    : 00000000
+funcs   : 5768 (GhidraScript)  
+void FUN_020e593c(uint *param_1,int param_2,undefined4 param_3,undefined4 param_4)
+
+{
+  byte bVar1;
+  byte bVar2;
+  byte bVar3;
+  byte bVar4;
+  byte bVar5;
+  byte bVar6;
+  byte bVar7;
+  byte bVar8;
+  byte bVar9;
+  byte bVar10;
+  byte bVar11;
+  byte bVar12;
+  byte bVar13;
+  byte bVar14;
+  byte bVar15;
+  byte bVar16;
+  byte bVar17;
+  byte bVar18;
+  byte bVar19;
+  byte bVar20;
+  byte bVar21;
+  byte bVar22;
+  byte bVar23;
+  int iVar24;
+  int iVar25;
+  uint *puVar26;
+  uint uVar27;
+  uint uVar28;
+  uint uVar29;
+  uint uVar30;
+  bool bVar31;
+  bool bVar32;
+  undefined4 local_2c [2];
+  
+  local_2c[0] = *(undefined4 *)((int)param_1 + param_2 + -4);
+  iVar25 = thunk_EXT_FUN_00007aec
+                     (local_2c,&DAT_020e5bd0,4,param_4,*(undefined4 *)((int)param_1 + param_2 + -8))
+  ;
+  iVar24 = DAT_020e5bc0;
+  if (iVar25 == 0) {
+    *(uint *)(DAT_020e5bc0 + 0x697) =
+         (*param_1 & 0xffffff | (uint)*(byte *)((int)param_1 + 3) << 0x18) + (int)param_1;
+    *(uint *)(iVar24 + 0x69b) =
+         (param_1[1] & 0xffffff | (uint)*(byte *)((int)param_1 + 7) << 0x18) + (int)param_1;
+    uVar27 = param_1[2] & 0xffffff | (uint)*(byte *)((int)param_1 + 0xb) << 0x18;
+    *(uint *)(iVar24 + 0x69f) = uVar27;
+    *(uint *)(iVar24 + 0x6a3) =
+         (param_1[3] & 0xffffff | (uint)*(byte *)((int)param_1 + 0xf) << 0x18) + (int)param_1;
+    uVar30 = param_1[4] & 0xffffff | (uint)*(byte *)((int)param_1 + 0x13) << 0x18;
+    *(uint *)(iVar24 + 0x6a7) = uVar30;
+    iVar25 = DAT_020e5bc0;
+    bVar32 = 0x7ff < uVar30;
+    bVar31 = uVar30 == 0x800;
+    if (uVar30 < 0x801) {
+      bVar32 = 0x3f7 < uVar27;
+      bVar31 = uVar27 == 0x3f8;
+    }
+    if (!bVar32 || bVar31) {
+      *(undefined4 *)(iVar24 + 0x214) = *(undefined4 *)(DAT_020e5bc0 + 0x693);
+      *(undefined4 *)(iVar24 + 0x218) = *(undefined4 *)(iVar25 + 0x697);
+      *(undefined4 *)(iVar24 + 0x21c) = *(undefined4 *)(iVar25 + 0x69b);
+      *(undefined4 *)(iVar24 + 0x220) = *(undefined4 *)(iVar25 + 0x69f);
+      *(undefined4 *)(iVar24 + 0x224) = *(undefined4 *)(iVar25 + 0x6a3);
+      *(undefined4 *)(iVar24 + 0x228) = *(undefined4 *)(iVar25 + 0x6a7);
+      *(byte *)(iVar24 + 0x210) = *(byte *)(iVar24 + 0x210) & 0xf;
+      *(byte *)(iVar24 + 0x210) = (*(byte *)(iVar24 + 0x210) & 0xf0) + 1;
+      thunk_EXT_FUN_0000edd2(iVar24 + 0x210,0x41c,0xa8);
+      *(undefined1 *)(iVar24 + 0x11) = 5;
+      thunk_EXT_FUN_0000edd2(iVar24 + 4,0x4c8,0x40);
+      FUN_02143f4e(0x7e);
+    }
+    thunk_EXT_FUN_00007bde(iVar24 + 0x6ab,0x8c);
+    iVar25 = DAT_020e5bc0;
+    *(undefined4 *)(iVar24 + 0x6af) = 0xffffffff;
+    *(undefined4 *)(iVar25 + 0x693) = 0;
+    *(undefined4 *)(iVar25 + 0x697) = 0;
+    *(undefined4 *)(iVar25 + 0x69b) = 0;
+    *(undefined4 *)(iVar25 + 0x69f) = 0;
+    *(undefined4 *)(iVar25 + 0x6a3) = 0;
+    *(undefined4 *)(iVar25 + 0x6a7) = 0;
+    *(undefined4 *)(iVar24 + 0x693) = 0xffffffff;
+    return;
+  }
+  iVar25 = thunk_EXT_FUN_00007aec(local_2c,&DAT_020e5bd8,4);
+  if (iVar25 == 0) {
+    *(uint **)(iVar24 + 0x6b3) = param_1;
+    *(uint **)(iVar24 + 0x733) = param_1 + 0x14201;
+    thunk_EXT_FUN_00007b44(iVar24 + 0x22c,iVar24 + 0x6ab,0x8c);
+    *(byte *)(iVar24 + 0x210) = (*(byte *)(iVar24 + 0x210) & 0xf) + 0x10;
+    *(byte *)(iVar24 + 0x210) = *(byte *)(iVar24 + 0x210) & 0xf0;
+    thunk_EXT_FUN_0000edd2(iVar24 + 0x210,0x41c,0xa8);
+    *(undefined1 *)(iVar24 + 0x11) = 5;
+    thunk_EXT_FUN_0000edd2(iVar24 + 4,0x4c8,0x40);
+    thunk_EXT_FUN_00007bde(iVar24 + 0x6ab,0x8c);
+    iVar25 = DAT_020e5bc0;
+    *(undefined4 *)(iVar24 + 0x6af) = 0xffffffff;
+    *(undefined4 *)(iVar25 + 0x693) = 0;
+    *(undefined4 *)(iVar25 + 0x697) = 0;
+    *(undefined4 *)(iVar25 + 0x69b) = 0;
+    *(undefined4 *)(iVar25 + 0x69f) = 0;
+    *(undefined4 *)(iVar25 + 0x6a3) = 0;
+    *(undefined4 *)(iVar25 + 0x6a7) = 0;
+    *(undefined4 *)(iVar24 + 0x693) = 0xffffffff;
+    FUN_02143f4e(0x7e);
+    return;
+  }
+  iVar25 = thunk_EXT_FUN_00007aec(&stack0xffffffd2,s_SOCIAL_020e5be0,6);
+  if (iVar25 != 0) {
+    return;
+  }
+  puVar26 = (uint *)FUN_0210bdae();
+  if (param_1 != puVar26) {
+    return;
+  }
+  if ((*(byte *)(iVar24 + 0x32c) & 4) != 0) {
+    *(byte *)(iVar24 + 0x32c) =
+         *(byte *)(iVar24 + 0x32c) & 0xfd | (~(*(byte *)(iVar24 + 0x32c) >> 1) & 1) << 1;
+  }
+  *(byte *)(iVar24 + 0x32c) = *(byte *)(iVar24 + 0x32c) | 4;
+  uVar27 = FUN_0210bdd2();
+  if (uVar27 == 0) {
+    bVar1 = *(byte *)(iVar24 + 0x30c);
+    bVar2 = *(byte *)(iVar24 + 0x30c);
+    bVar3 = *(byte *)(iVar24 + 0x30c);
+    bVar4 = *(byte *)(iVar24 + 0x30c);
+    bVar5 = *(byte *)(iVar24 + 0x30c);
+    bVar6 = *(byte *)(iVar24 + 0x30c);
+    bVar7 = *(byte *)(iVar24 + 0x30d);
+    bVar8 = *(byte *)(iVar24 + 0x30d);
+    bVar9 = *(byte *)(iVar24 + 0x30d);
+    bVar10 = *(byte *)(iVar24 + 0x30d);
+    bVar11 = *(byte *)(iVar24 + 0x30d);
+    bVar12 = *(byte *)(iVar24 + 0x30d);
+    bVar13 = *(byte *)(iVar24 + 0x30d);
+    bVar14 = *(byte *)(iVar24 + 0x30e);
+    bVar15 = *(byte *)(iVar24 + 0x30e);
+    bVar16 = *(byte *)(iVar24 + 0x30e);
+    bVar17 = *(byte *)(iVar24 + 0x30e);
+    bVar18 = *(byte *)(iVar24 + 0x310);
+    bVar19 = *(byte *)(iVar24 + 0x310);
+    bVar20 = *(byte *)(iVar24 + 0x31a);
+    bVar21 = *(byte *)(iVar24 + 0x319);
+    bVar22 = *(byte *)(iVar24 + 0x319);
+    bVar23 = *(byte *)(iVar24 + 0x316);
+    *(undefined4 *)(iVar24 + 0x30c) = 0;
+    *(undefined4 *)(iVar24 + 0x310) = 0;
+    *(undefined4 *)(iVar24 + 0x314) = 0;
+    *(undefined4 *)(iVar24 + 0x318) = 0;
+    *(undefined4 *)(iVar24 + 0x31c) = 0;
+    *(undefined4 *)(iVar24 + 800) = 0;
+    *(undefined4 *)(iVar24 + 0x324) = 0;
+    *(undefined4 *)(iVar24 + 0x328) = 0;
+    *(byte *)(iVar24 + 0x30c) = *(byte *)(iVar24 + 0x30c) & 0xdf | (bVar1 >> 5 & 1) << 5;
+    *(byte *)(iVar24 + 0x30c) = *(byte *)(iVar24 + 0x30c) & 0xfe | bVar2 & 1;
+    *(byte *)(iVar24 + 0x30c) = *(byte *)(iVar24 + 0x30c) & 0xfd | (bVar3 >> 1 & 1) << 1;
+    *(byte *)(iVar24 + 0x30c) = *(byte *)(iVar24 + 0x30c) & 0xef | (bVar4 >> 4 & 1) << 4;
+    *(byte *)(iVar24 + 0x30c) = *(byte *)(iVar24 + 0x30c) & 0xf7 | (bVar5 >> 3 & 1) << 3;
+    *(byte *)(iVar24 + 0x30c) = *(byte *)(iVar24 + 0x30c) & 0x7f | bVar6 & 0x80;
+    *(byte *)(iVar24 + 0x30d) = *(byte *)(iVar24 + 0x30d) & 0xfe | *(byte *)(iVar24 + 0x30d) & 1;
+    *(byte *)(iVar24 + 0x30d) = *(byte *)(iVar24 + 0x30d) & 0xfd | (bVar7 >> 1 & 1) << 1;
+    *(byte *)(iVar24 + 0x30d) = *(byte *)(iVar24 + 0x30d) & 0xfb | (bVar8 >> 2 & 1) << 2;
+    *(byte *)(iVar24 + 0x30d) = *(byte *)(iVar24 + 0x30d) & 0xf7 | (bVar9 >> 3 & 1) << 3;
+    *(byte *)(iVar24 + 0x30d) = *(byte *)(iVar24 + 0x30d) & 0xef | (bVar10 >> 4 & 1) << 4;
+    *(byte *)(iVar24 + 0x30d) = *(byte *)(iVar24 + 0x30d) & 0xdf | (bVar11 >> 5 & 1) << 5;
+    *(byte *)(iVar24 + 0x30d) = *(byte *)(iVar24 + 0x30d) & 0xbf | (bVar12 >> 6 & 1) << 6;
+    *(byte *)(iVar24 + 0x30d) = *(byte *)(iVar24 + 0x30d) & 0x7f | bVar13 & 0x80;
+    *(byte *)(iVar24 + 0x30e) = *(byte *)(iVar24 + 0x30e) & 0xfe | *(byte *)(iVar24 + 0x30e) & 1;
+    *(byte *)(iVar24 + 0x30e) = *(byte *)(iVar24 + 0x30e) & 0xfd | (bVar14 >> 1 & 1) << 1;
+    *(byte *)(iVar24 + 0x30e) = *(byte *)(iVar24 + 0x30e) & 0xfb | (bVar15 >> 2 & 1) << 2;
+    *(byte *)(iVar24 + 0x30e) = *(byte *)(iVar24 + 0x30e) & 0xef | (bVar16 >> 4 & 1) << 4;
+    *(byte *)(iVar24 + 0x30e) = *(byte *)(iVar24 + 0x30e) & 0xdf | (bVar17 >> 5 & 1) << 5;
+    *(byte *)(iVar24 + 0x310) = *(byte *)(iVar24 + 0x310) & 0xf7 | (bVar18 >> 3 & 1) << 3;
+    *(byte *)(iVar24 + 0x310) = *(byte *)(iVar24 + 0x310) & 0xdf | (bVar19 >> 5 & 1) << 5;
+    *(byte *)(iVar24 + 0x316) = *(byte *)(iVar24 + 0x316) & 0xfe | *(byte *)(iVar24 + 0x316) & 1;
+    *(byte *)(iVar24 + 0x317) =
+         *(byte *)(iVar24 + 0x317) & 0xf7 | (*(byte *)(iVar24 + 0x317) >> 3 & 1) << 3;
+    *(byte *)(iVar24 + 0x319) = *(byte *)(iVar24 + 0x319) & 0x7f | *(byte *)(iVar24 + 0x319) & 0x80;
+    *(byte *)(iVar24 + 0x31a) = *(byte *)(iVar24 + 0x31a) & 0xfe | *(byte *)(iVar24 + 0x31a) & 1;
+    *(byte *)(iVar24 + 0x31a) = *(byte *)(iVar24 + 0x31a) & 0xfd | (bVar20 >> 1 & 1) << 1;
+    *(byte *)(iVar24 + 0x30f) =
+         *(byte *)(iVar24 + 0x30f) & 0xfb | (*(byte *)(iVar24 + 0x30f) >> 2 & 1) << 2;
+    *(byte *)(iVar24 + 0x319) = *(byte *)(iVar24 + 0x319) & 0xbf | (bVar21 >> 6 & 1) << 6;
+    *(byte *)(iVar24 + 0x313) =
+         *(byte *)(iVar24 + 0x313) & 0xfd | (*(byte *)(iVar24 + 0x313) >> 1 & 1) << 1;
+    *(byte *)(iVar24 + 0x319) = *(byte *)(iVar24 + 0x319) & 0xfb | (bVar22 >> 2 & 1) << 2;
+    *(byte *)(iVar24 + 0x316) = *(byte *)(iVar24 + 0x316) & 0x7f | bVar23 & 0x80;
+  }
+  uVar30 = 0;
+  if (uVar27 != 0) {
+    do {
+      uVar28 = FUN_0210be0e(uVar30);
+      uVar29 = uVar28 & 0xff;
+      if ((uVar29 != 0) && (uVar29 < 0xff)) {
+        iVar25 = iVar24 + (uVar29 >> 6) * 8;
+        if ((uVar28 & 0x3f) < 0x20) {
+          *(uint *)(iVar25 + 0x30c) = 1 << (uVar28 & 0x1f) | *(uint *)(iVar25 + 0x30c);
+        }
+        else {
+          *(uint *)(iVar25 + 0x310) = 1 << (uVar28 & 0x1f) | *(uint *)(iVar25 + 0x310);
+        }
+      }
+      uVar30 = uVar30 + 1 & 0xff;
+    } while (uVar30 < uVar27);
+  }
+  thunk_EXT_FUN_0000edd2(iVar24 + 0x30c,0x74c,0x20);
+  thunk_EXT_FUN_0000edd2(iVar24 + 0x32c,0x4c4,4);
+  return;
+}
+
+ (GhidraScript)  

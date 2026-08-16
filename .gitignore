@@ -1,0 +1,33 @@
+.DS_Store
+**/.DS_Store
+node_modules/
+**/node_modules/
+dist/
+build/
+.turbo/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+
+# Vendor packages & dumps
+*.apk
+*.apkm
+*.xapk
+*.aab
+hawofit*.xapk
+work/xapk/
+work/jadx/
+work/ghidra/
+work/*.log
+
+# Local runtime data
+studio/data/
+*.db
+*.db-journal
+
+# Huge binary artifact trees
+artifacts/fam2/bins/
+*.gif
+
+.claude/

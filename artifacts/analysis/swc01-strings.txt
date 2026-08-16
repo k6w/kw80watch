@@ -1,0 +1,4213 @@
+2F9F F
+"iF@F6
+"iF`FB
+"iFpF
+$%F)F0F
+$%F)F@F
+'F!Fs
+,0>468 H
+0 `2F)h
+3H5O3NAx
+@BDFOZa
+@J)TO
+CCJ(!
+F<! Fq
+FD!hF
+J(h!F
+eDE`@
+syjy1y
+    FLASH ID: 
+   page
+   password
+   pfp
+   qfq
+  """"(&D@"",B<<<*262&>6>
+  )ihho
+  /#/".
+  ADBD
+  `!F(F
+  `(Fp
+  ``` 
+  `wJ2
+  a F)h
+  e"FO
+  p" `p x
+  p(Fp
+  paL`z
+  r hvK
+  r&`et
+  s l@!a
+  u(Fp
+  v`ia
+  v`v w
+ !"#$%&
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !F'h(0
+ "..." 
+ #%(*-0369<?BFJMQ
+ %)F F
+ %*/49>CHMRW\)F F
+ %*F5Iy
+ %*FKIy
+ %hhu,%hhu%n
+ %s: %pV 
+ &,28rx~
+ (U(Fp
+ (`0Fp
+ (p:F)F@F
+ (pip`{
+ (plp 
+ (pop x
+ ,.;:-_
+ 0"{a}
+ 0@P`p
+ 0[iKbR
+ 0[jKcR
+ 0[kKdR
+ 0[mKgR
+ 1DHa*x
+ 2$&(*,24.04444
+ 2048 
+ 8pRF9FHF
+ @"iFC
+ @#aKjR
+ @#bKkR
+ @#cKlR
+ @#eKoR
+ AHour
+ Changes console mode(string or binary)
+ D2F)F
+ D2F9F
+ DQF2F
+ Exits from the terminal
+ F1"1F
+ F1FQ"
+ F1Fi">
+ F3"1F
+ FIFZF
+ F`"1F
+ F`"QF
+ Fa"1F
+ HppG-
+ HppGUI
+ Lists all the registered commands
+ PT`hm
+ SCTCPC
+ TIUJQ
+ Xt@"O
+ YaXp.
+ ZI[JQ
+ `0pGp
+ `XaXi
+ `mx.CB
+ `p xT
+ `p%p8
+ `q)F F
+ `qhH@h
+ `tanHh
+ aH"+IhF
+ agIhF
+ anHcanHh
+ bJaJi
+ bpIqH
+ c#`*h_
+ days later
+ esIsH
+ h)h(0
+ h)h@h
+ h2h(0
+ h9h0D
+ hAh F
+ hAi F
+ hE`@F
+ hjh8D
+ hpiFO
+ i0` i
+ i8` F
+ iFPFK
+ iqiAa i
+ l*F1F
+ lEh(F
+ n`(p
+ pG pGO
+ pG  pG
+ pG#  p3 
+ pGD=,
+ pGH',
+ pGconsole task
+ pGpGpGpGpGpGpG-
+ pGq*
+ q.F j
+ q{i"`
+ r(z`r
+ sItJQ
+ t(h `
+ wIHpxIyH
+ x-(`x0(
+ xpRF@
+ xr}f=f
+ y*F1F
+ yIH`xH
+ |;IIj
+!!!!'%]A!!+C===)151%?5?
+!!#!!#!
+!!H#l%
+!!`(h@
+!!`{IJh
+!!p%ssI!a0
+!!u"i F
+!!w`s`w
+!####!!!!
+!#%&(+-/1
+!$'*-0
+!$hpK0
+!%)-15
+!(F,aS
+!*2$h@
+!0 aai
+!0H:hi
+!1aq`O
+!@2$hO
+!@Fjhw
+!ACHFc
+!A`iF@
+!DH%`F
+!F&H0J
+!FHFvJ
+!GHjhw
+!H*F3F
+!HjF!F
+!HxDT8
+!J"K@FQF
+!L$hdk
+!ab(FB
+!ap!siI!a
+!at`a vbv
+!bDQaO
+!block_is_free(block) && "block already marked as free"
+!block_is_free(block) && "block must be used"
+!block_is_free(block_next(block)) && "blocks should have coalesced"
+!block_is_free(block_next(block)) && "next block should not be free"
+!block_is_last(block)
+!block_is_last(block) && "previous block can't be last"
+!block_is_last(prev) && "previous block can't be last"
+!block_is_prev_free(block) && "blocks should have coalesced"
+!c2$h@
+!dclHFb
+!h FIi
+!h3FRF
+!hHa`y@
+!lHbh~
+!pzi"a
+!sl_map && "second-level map must be null"
+!t)h!`
+!y2F(F
+!yx~!1
+!{Awa{
+!|3FRF
+"!0Fd
+" !$hDK
+" 0F)F
+" 1 Fw
+" 18F~
+" 1JH<
+" 1\H<
+" 1hHh
+" IHFS
+"!F(F|
+"!FhFq
+"!h`i$
+""",""
+""#&(+-0358;>AD
+""I#H/
+""I0Fv
+""I8Fz
+""Tjh@
+"#F,vX1
+"#FT1'
+"#IPF!
+"#pHz`p
+"$1(F)
+"$10FA
+"$1@F{
+"$1HFv
+"$1HHu
+"$1\Hz
+"$1mH#
+"$I H{
+"$I$HT
+"$IHF0
+"$IeF`FZ
+"%!(FK
+"%!8FK
+"%I#H{
+"&!0FK
+"&!XFK
+"&*.26:>BFJNRV
+"&19AEI
+"&I k 
+"&I&H0
+"&I&HA
+"&I@Fz
+"&IXFG
+"&WWW*.WWWWWWWWWWWWWWWWWWW0>Fc!
+"'!0FK
+"(!(FK
+"(!`iK
+"(1(Fu
+"(18Fv
+"(1@Fd
+"(1DHv
+"(1HFu
+"(1PF~
+"(1XF}
+"(9 Fw
+"(98FJ
+"(I(HJ
+"(I(HV
+"(I(HW
+")F0F>
+")I)H0
+")I8Fb
+")IHF.
+")IXFV
+"*:<>?|
+"*I+HJ
+"+!0FS
+"+F?I;Hx
+"+F@1{Hx
+"+Fl1`F}
+",1 Fz
+",1(F*
+",1(Fu
+",18FJ
+",1@Fy
+",1@Fz
+",1HFw
+",1HF{
+",9(FI
+",98Fu
+",98F{
+",9@Fh
+",9`F}
+",>No~
+"-!@FJ
+"-137;@EJNU
+"-7BVj~
+"-IPFg
+"-I`m.
+".I.H|
+".I8Fb
+"/I/H\
+"/I/Hu
+"/I`m/
+"01 Fu
+"01(Fw
+"010FA
+"01MFHFv
+"01XFy
+"01YHy
+"01fH~
+"09PF@
+"09PF~
+"0I'H+h
+"0I-HU
+"0I0Hu
+"1F Fcj
+"1F Fm
+"1F(Fcj<
+"1F8F<
+"1IHFv
+"2I0FH
+"2I2Hw
+"2I3Hv
+"2I`m.
+"3DUfw
+"3F<1@Fg
+"3FX9HF
+"3I"Hr
+"3I"Ht
+"3I@FR
+"3IPFS
+"3`*`p
+"3phzpp
+"41(F{
+"41HFv
+"41VHA
+"41XHK
+"49-Hy
+"498F~
+"4I#HS
+"4I'HI
+"4I2HG
+"4I5Hcir
+"4IXFV
+"5I,H/
+"6I.H
+"6I0FH
+"6I3Hx
+"81 Fw
+"81BHh
+"81HFz
+"81WFPF
+"8I$HU
+"8I5Hs
+"8I6HT
+"9F hX
+"9I)Hr
+"9I)Ht
+"9I9Hr
+"9I@FR
+"9IXFV
+":I8Hq
+":IHF{
+";FNI2H
+";I*H0
+";xX1 Fu
+"<1 Fu
+"<1%Hx
+"<10Fu
+"<18F~
+"<1LH@
+"<1PFz
+"<9@Fz
+"<I8FH
+"<I=HG
+"<I=Hp
+"=I>He
+">I8Fb
+">I>HW
+">IXFV
+">p] r
+"?I0Hr
+"?I0Ht
+"?I?HS
+"?O=I8FH
+"@1+F@
+"@18Fz
+"@18F~
+"@1HFv
+"@98Fw
+"@I9HH
+"@IHF1
+"AF0FQ
+"AI5H@
+"BI@FR
+"BepGpG
+"CI:H?
+"D1HF!
+"D1LFHFu
+"D1XF}
+"EI7Hr
+"EI7Ht
+"EI@FR
+"EIAHn
+"F"!(F
+"F"!PF
+"F#!(FJ
+"F#!0F
+"F)F0F
+"F)F0FW
+"F)F8a
+"F)F@F
+"F)FoH
+"F1F(F
+"F1F8F
+"F9F(F
+"F9F0i
+"FAF(F
+"FAFPF
+"FI8FH
+"FI?Hq
+"FI@F}
+"FIFHS
+"FKh"!
+"Fd!`d
+"FiF(F
+"GI1HW
+"GI=H@
+"H1 F 
+"H1(FI
+"H10F~
+"H1IHz
+"H1PF)
+"H1bH~
+"HIHHs
+"IF0F7
+"IFPF7
+"IIAHV
+"IIFH!
+"IPF49
+"JIHFV
+"JIJHp
+"JIKH~
+"JIXFb
+"JK(F1F
+"JrByJs
+"KF01!
+"KI8FI
+"KI>Hr
+"KI>Ht
+"KIFH
+"L1"H|
+"L10F*
+"L10F}
+"L18F#h+
+"L18F|
+"L1@F{
+"L1HF{
+"L1PFg
+"L1PFq
+"L1hF#
+"LI m/
+"MI8F+
+"MIMHq
+"NI8FH
+"NI@FS
+"NIHF.
+"NINHU
+"NIXFH
+"NIXFV
+"OIHHH
+"P1 Fv
+"P1(F*
+"P1*H~
+"P10F+jy
+"P10Fz
+"P1nH"
+"P98F{
+"P9PFq
+"PI FU
+"PIHF.
+"QIEHr
+"QIEHt
+"QIPFS
+"QIQHx
+"RIHF.
+"SF8FAF
+"SFXF!F
+"SIAH}
+"SIHFq
+"SISH|
+"T10Fx
+"T18Fx
+"T18Fz
+"T1=H\
+"T1@F[
+"T1@F{
+"T1HFv
+"T1uH{
+"T9:H+
+"TI FU
+"TI<HU
+"TI@HW
+"TIPFS
+"TIXFV
+"UI`FZ
+"VI0Fz
+"VIWH[
+"W!`hn
+"WILHr
+"WILHt
+"X1 Fu
+"X1 Fw
+"X10Fy
+"X18F}
+"X1HFv
+"XIHF.
+"XIPFI
+"YI8Fw
+"YIHFq
+"ZI0FA
+"ZIHF.
+"ZIUH 
+"ZIXFG
+"[IGH0
+"\18Fu
+"\18F~
+"\1@Fw
+"\1HFv
+"\9(Fx
+"\98Fu
+"\IPF)
+"\IWH,
+"]ISHr
+"]ISHt
+"^IHF.
+"^IYH|
+"^I[Ho
+"^I_HW
+"_IXFV
+"`10Fx
+"`10Fy
+"`18F}
+"`1HF+
+"`1\H~
+"aI^H|
+"ah`i-
+"bI i/
+"cIXFG
+"cIXFV
+"cIZHr
+"cIZHt
+"cIbH{
+"cxt1
+"d!40`
+"d!40s
+"d!40{
+"d18F}
+"d1zHy
+"d1}Hv
+"dI@F}
+"dIRHW
+"dIUH,
+"dIdHv
+"dIdH{
+"dIeHb
+"eIOH0
+"eI`F.
+"fIfHU
+"gI@Fz
+"gIPF~
+"gIXF0
+"h)F0F
+"h1(Fz
+"h18F[
+"h1MHx
+"h1PF@
+"hI i/
+"hIHF.
+"hIhHn
+"hPP``
+"hpIXF
+"iF8Fq
+"iF@FH
+"iI@F}
+"iIKH+h
+"iIaHr
+"iIaHt
+"iIfH
+"jIcH/
+"jIjH~
+"l1(Fw
+"l18Fx
+"l1@F~
+"l1HF*
+"l1PF@
+"lI i/
+"lIXFG
+"lIlHl
+"mIHF.
+"mIkH 
+"nIXFG
+"oIhHr
+"oIhHt
+"oIoH~
+"p1(Fu
+"p18Fz
+"p18F|
+"p1EHv
+"p1PFz
+"p1XF}
+"pIlH+
+"qIHF.
+"rIfHH
+"rIpHy
+"sIHF.
+"sIXFG
+"sIXFH
+"t10Fy
+"t1HF1
+"t1XH{
+"t1oH{
+"tI`jT
+"tIuHc
+"uIoHr
+"uIoHt
+"vIqHV
+"wIHF.
+"x18Fz
+"x1@Fu
+"x1WH~
+"x1hF"
+"x98Fv
+"x98Fw
+"xIxHs
+"yInHH
+"yIvHn
+"z!{ x
+"zI0Fy
+"zI@FW
+"{IXFH
+"{IvHr
+"{IvHt
+"|10Fx
+"|1DHv
+"|1HF*
+"|1HF{
+"|1PF{
+"|IvHo
+"}I0FX
+"~IHF.
+#2@!6h
+#":$hH!
+#"F1F8F
+##6hLJ!F
+##pa` r`r
+#$h7J7
+#$xKc!N
+#'+/37;?CGWYKOS-I
+#)2?h)F
+#*18?iI
+#*F1F@FD
+#*F9F F
+#*Fah 
+#*FhIeH
+#,5>GPY
+#/hTF2F
+#22,!$h
+#2F!F(F
+#2F)F FR
+#2F9F@F
+#:F!F(F
+#:F)F FR
+#:F1F F
+#:F9F F
+#@20!$h
+#BF'I0F
+#FL*F1F$h8F
+#F!F= 
+#F!FP 
+#F"F!F 
+#F"F)F 
+#F"F> 
+#F*F!F> 
+#F*F1F
+#F*F1F h
+#F*F1F8F
+#F*FAFHF
+#F*FQFXF
+#F2FIF
+#FBFIFhh
+#FBFIFho
+#FJF)F
+#FjI0FX
+#K !#H
+#`pc!h
+#`pc5O
+#`pc9h
+#jF!(F
+#jF)F0F
+#pKpCpSp
+#xjh1h`h
+$!F8FV
+$" IhF
+$"AFhF
+$"FAF0hv
+$"TIhF#
+$#&7#;#
+$$&2:AS^k
+$(71hW
+$(h1h@h
+$*06<BJPV\bhnv|
+$0h:h!F(0
+$0hAhH
+$2F!F8FX
+$;?CGKOSW[aglrx~
+$@'%F!FPF
+$FO>2D
+$M(hAkIn
+$M+N,OAF@E
+$hO,`l`
+$hh@'&F
+$jF I(F
+%Wireless iAP56
+%"P! i
+%$.]$L$b
+%%p`xp
+%&)*+45678
+%*F ! F
+%.FoFx]
+%02d%s %02d%s
+%02d-%02d
+%02d/%02d  %s
+%02d/%02d %02d:%02d
+%02d/%02d %02d:%02d %s
+%02d/%02d %s
+%02d:%02d
+%02d:%02d %s
+%02d:%02d%s
+%02d:%02d%s-%02d:%02d%s
+%02d:%02d:%02d
+%02x%02x%02x%02x%02x%02x
+%02x:%02x:%02x:%02x:%02x:%02x
+%1 Sports
+%1 day ago
+%1 days ago
+%1 hour ago
+%1 hours ago
+%1 min
+%1 min ago
+%1 mins ago
+%:h)FHF
+%HxDT8
+%ON$(*
+%P(FMa
+%UFPF{
+%``y"F@
+%`h@'.F
+%`jh!F(F
+%`jh(F!F
+%aea%v
+%d - %d%s
+%d bmp
+%d bpm
+%d'%02d"
+%d,%03d
+%d.%01d
+%d.%02d
+%d/%02d/%02d
+%d/%02d/%02d %s
+%dh%02dm
+%hhu%n
+%p %s size: %x (%p)
+%r1F(F
+%rIF(F
+%rQF(F
+%s  %d%s
+%s %02d
+%s %d%s
+%s %d: %02d:%02d:%02d
+%s#00ff00 %s#
+%s#ff0000 %s#
+%s%d%s
+%s, %02d/%02d
+%s, %s %02d
+%s, %s %d
+%s,+%d%s
+%s,+%d.%d%s
+%s,-%d%s
+%s,-%d.%d%s
+%s: %02d:%02d:%02d
+%s: %s
+%s: argument value %u out of range [0, %u)
+%s: bad cast
+%s: bad locale name: "%s"
+%s: bad_alloc: out of memory
+%s: conversion failed
+%s: exception
+%s: facet %u not found in "%s" locale
+%s: failed to construct locale name
+%s: invalid pointer %p
+%s: length error: %u > %u
+%s: logic error
+%s: out of memory
+%s: overflow error
+%s: range error: invalid range [%d, %d)
+%s: runtime error
+%s: stream object has set %s
+%s: stream object has set ios::badbit
+%s: stream object has set ios::eofbit
+%s: stream object has set ios::failbit
+%s: underflow error
+%s: unexpected exception
+%s: unspecified error
+%s:%s: %d%%
+%sese`
+& !i`hn
+& pair with device
+&#-hWJ
+&&t`tg
+&,2 8>DJPV
+&2F)F F.a
+&I ~O9
+&J&K@F
+&L%J8!d2$h@
+&TODO,
+&p1F H
+''''''
+'(-39:;<
+'*06HR\a
+'/7?FMT[
+'0' <= c && c <= '9'
+'0hKF:F
+'1M<F)F
+'2?P]q
+':F1F(F
+':F1F(F/
+':F9F i
+'F%F F
+'F(F!FA
+'H(`'O0F:h
+'H/8@j
+'Hqh\8
+'Ih\<!D
+'J(K@F1F
+'RJiF F
+'`ph``ph
+'f?FO-
+'sys_ipc_subscribe
+'xfx0Fg
+("%20[^"]",(0%*[-,]%hhu))%n
+("P!`i
+(%d.%03d, +%d)
+(((((**(*(
+((F!Fy
+(*a) != NULL
+(=F@Fz
+(BBC`C
+(BF)F0F
+(BF)F8F
+(CF2F9F(F
+(F!F!"?
+(F!F#"?
+(F!F$"?
+(F!F&"?
+(F!F)"?
+(F!F+"?
+(F!F3"?
+(F!FJ">
+(F!FK">
+(F!FL">
+(F!FN">
+(F!FS">
+(F!FT">
+(F!Fi"?
+(F2F!h
+(FIF2F
+(FIF2Fs
+(FIF:F
+(HjF!F
+(IF8F8
+(KP!*H
+(L(I`h
+(Mhp&H
+(O`h8D
+(`'F2F
+(h ` Fp
+(h b`b
+(h5h7K
+(hFX!F(F
+(hGe(h
+(hQF D2F
+(h``hh
+(hbK"FAi0F0
+(i0C(a
+(in %s line #%d)
+(qrcodegen_VERSION_MIN * 4 + 17) <= result && result <= (qrcodegen_VERSION_MAX * 4 + 17)
+(x0p`x
+(xix"M
+({ uh{`u
+(| vVJ!F
+)DHaahO
+)Ek{X1
+)F*F F
+)I*O+x
+)IHh!F
+)`+`@h
+)`fThF
+)hPl`
+)hHk@n
+*%h(D+
+*** assertion failed: 
+*5DllllllllPU
+*8FTbp~
+*FIhF
+*F!F0F
+*F!l`j
+*F"!8F
+*F#!8F
+*F$!0F
+*F)F(F
+*F1F F
+*F1F F1
+*F1F l
+*F1F8F
+*F1F`jT
+*F3F@F
+*F9F@F
+*F9FHF
+*FAF F
+*FCh1F@F
+*FIF8F7
+*FIF@F
+*FIF@F7
+*FXF!F
+*I(K'J
+*h!F0F
+*iAF(F
++#%'+)+-/
+++++]++ex
++,;=[]
++7CO[fq|
++;\fnx
++BCS: %hhu%n
++BIND:
++BRSF: %u%n
++BSIR: %hhu%n
++BVRA: %hhu%n
++CCWA: "%20[^"]",%hhu%n
++CIEV: %hhu,%hhu%n
++CIND:
++CLCC: %hhu,%hhu,%hhu,%hhu,%hhu%n
++CLIP: "%20[^"]",%hhu%n
++CME ERROR
++CME ERROR: %hhu%n
++CNUM: ,"",%hhu%n
++CNUM: ,"%20[^"]",%hhu%n
++COPS: %hhu,0,""%n
++COPS: %hhu,0,"%16[^"]"%n
++F"IF
++F"F)F
++F"F1FhF
++F2F9F
++F2F9F@F
++F2FIFx
++F:F!F0F
++F:FAF
++F:FAF`h
++FjF!F
++HAihF
++I%Hl1
++K,K(F1F
++L+O h
++VGM%*[:=]%hhu%n
++VGS%*[:=]%hhu%n
++h"F(F
+, file 
+, line 
+,"",%hhu%n
+,"%20[^"]",%hhu%n
+,"1FhF
+,$2,&(*,.0024
+,,%hhu%n
+,4@Udu
+,:HVdr
+,D4`  
+,D<`  (
+,Ft`0F
+,K !,H
+,`bh F
+,p"FQFh
+-------
+-<KZix
+-I(FP1
+-J!F+H
+-K !-H
+-K(F!F
+-L&JL!
+. >F F
+."!FPF
+.#-hKJ
+.$=>?@ABCD
+..\..\..\src\app\watch\Gui\LVGL\src\core\lv_disp.c
+..\..\..\src\app\watch\Gui\LVGL\src\core\lv_event.c
+..\..\..\src\app\watch\Gui\LVGL\src\core\lv_group.c
+..\..\..\src\app\watch\Gui\LVGL\src\core\lv_indev.c
+..\..\..\src\app\watch\Gui\LVGL\src\core\lv_obj.c
+..\..\..\src\app\watch\Gui\LVGL\src\core\lv_obj_class.c
+..\..\..\src\app\watch\Gui\LVGL\src\core\lv_obj_pos.c
+..\..\..\src\app\watch\Gui\LVGL\src\core\lv_obj_style.c
+..\..\..\src\app\watch\Gui\LVGL\src\core\lv_obj_tree.c
+..\..\..\src\app\watch\Gui\LVGL\src\core\lv_refr.c
+..\..\..\src\app\watch\Gui\LVGL\src\draw\lv_draw_img.c
+..\..\..\src\app\watch\Gui\LVGL\src\draw\lv_draw_label.c
+..\..\..\src\app\watch\Gui\LVGL\src\draw\lv_draw_mask.c
+..\..\..\src\app\watch\Gui\LVGL\src\draw\lv_img_buf.c
+..\..\..\src\app\watch\Gui\LVGL\src\draw\lv_img_cache.c
+..\..\..\src\app\watch\Gui\LVGL\src\draw\lv_img_decoder.c
+..\..\..\src\app\watch\Gui\LVGL\src\draw\sw\lv_draw_sw_blend.c
+..\..\..\src\app\watch\Gui\LVGL\src\draw\sw\lv_draw_sw_gradient.c
+..\..\..\src\app\watch\Gui\LVGL\src\draw\sw\lv_draw_sw_letter.c
+..\..\..\src\app\watch\Gui\LVGL\src\draw\sw\lv_draw_sw_rect.c
+..\..\..\src\app\watch\Gui\LVGL\src\extra\layouts\flex\lv_flex.c
+..\..\..\src\app\watch\Gui\LVGL\src\extra\libs\qrcode\lv_qrcode.c
+..\..\..\src\app\watch\Gui\LVGL\src\extra\libs\qrcode\qrcodegen.c
+..\..\..\src\app\watch\Gui\LVGL\src\extra\others\snapshot\lv_snapshot.c
+..\..\..\src\app\watch\Gui\LVGL\src\extra\widgets\chart\lv_chart.c
+..\..\..\src\app\watch\Gui\LVGL\src\font\lv_font.c
+..\..\..\src\app\watch\Gui\LVGL\src\font\lv_font_fmt_txt.c
+..\..\..\src\app\watch\Gui\LVGL\src\hal\../draw/../misc/lv_color.h
+..\..\..\src\app\watch\Gui\LVGL\src\hal\lv_hal_disp.c
+..\..\..\src\app\watch\Gui\LVGL\src\hal\lv_hal_indev.c
+..\..\..\src\app\watch\Gui\LVGL\src\misc\lv_anim.c
+..\..\..\src\app\watch\Gui\LVGL\src\misc\lv_anim_timeline.c
+..\..\..\src\app\watch\Gui\LVGL\src\misc\lv_color.c
+..\..\..\src\app\watch\Gui\LVGL\src\misc\lv_fs.c
+..\..\..\src\app\watch\Gui\LVGL\src\misc\lv_mem.c
+..\..\..\src\app\watch\Gui\LVGL\src\misc\lv_style.c
+..\..\..\src\app\watch\Gui\LVGL\src\misc\lv_timer.c
+..\..\..\src\app\watch\Gui\LVGL\src\misc\lv_tlsf.c
+..\..\..\src\app\watch\Gui\LVGL\src\misc\lv_txt.c
+..\..\..\src\app\watch\Gui\LVGL\src\widgets\lv_arc.c
+..\..\..\src\app\watch\Gui\LVGL\src\widgets\lv_btnmatrix.c
+..\..\..\src\app\watch\Gui\LVGL\src\widgets\lv_canvas.c
+..\..\..\src\app\watch\Gui\LVGL\src\widgets\lv_img.c
+..\..\..\src\app\watch\Gui\LVGL\src\widgets\lv_label.c
+..\..\..\src\app\watch\Gui\LVGL\src\widgets\lv_roller.c
+..\..\..\src\app\watch\Gui\LVGL\src\widgets\lv_textarea.c
+..\..\..\src\app\watch\Gui\LVGL\user\lv_port_fs.c
+..\..\..\src\app\watch\Gui\LVGL\user\lv_user_font_fmt_txt.c
+..\..\..\src\app\watch\Gui\MVP\PageManager\PM_Anim.cpp
+..\..\..\src\app\watch\Gui\MVP\PageManager\PM_Base.cpp
+..\..\..\src\app\watch\Gui\MVP\PageManager\PM_Router.cpp
+..\..\..\src\app\watch\Gui\MVP\PageManager\PM_State.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\ActivityDetail\ActivityDetail.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Activity\Activity.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\AlarmTimeout\AlarmTimeout.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Alarm\Alarm.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\AodSetting\AodSetting.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\AodStyle\AodStyle.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\AppList\AppList.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Assistant\Assistant.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\BatteryLow\BatteryLow.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\BleDisconnet\BleDisconnet.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\BreathRunning\BreathRunning.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Breath\Breath.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\BreatheCountDown\BreatheCountDown.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\BreatheExit\BreatheExit.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\BreatheFail\BreatheFail.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\BreatheFinish\BreatheFinish.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\BreatheOptions\BreatheOptions.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\BtSwitch\BtSwitch.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Calculator\Calculator.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Camera\Camera.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Charge\Charge.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\ConfirmPowerOff\ConfirmPowerOff.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\DeviceInfo\DeviceInfo.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\DoNotDistrbSetting\DoNotDistrbSetting.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\EvenRemind\EvenRemind.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactorryChargeTest\FactorryChargeTest.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactoryAgingMenuTest\FactoryAgingMenuTest.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactoryAgingRunTest\FactoryAgingRunTest.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactoryCodeTest\FactoryCodeTest.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactoryHrTest\FactoryHrTest.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactoryInputQcNum\FactoryInputQcNum.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactoryKey1Test\FactoryKey1Test.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactoryKeyTesst\FactoryKeyTesst.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactoryMainBoardTest\FactoryMainBoardTest.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactoryMotoTest\FactoryMotoTest.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactoryResul\FactoryResul.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactoryScreenTest\FactoryScreenTest.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactoryShowResult\FactoryShowResult.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactorySpo2Test\FactorySpo2Test.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactoryStepTest\FactoryStepTest.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactorySystemTest\FactorySystemTest.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactoryTest\FactoryTest.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactoryTouchTest\FactoryTouchTest.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FactoryVoiceTest\FactoryVoiceTest.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FallingBird\FallingBird.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FindDevice\FindDevice.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\FindPhone\FindPhone.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Flashlight\Flashlight.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\ForThePassword\ForThePassword.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Game2048\Game2048.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\GameList\GameList.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\GoalAchieve\GoalAchieve.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\GoalSetting\GoalSetting.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\HeartAlert\HeartAlert.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\HeartRate\HeartRate.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\HrTest\HrTest.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\InactivityAlert\InactivityAlert.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\IncomCall\IncomCall.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\LowPower\LowPower.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\MainMenu\MainMenu.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\MeasureFail\MeasureFail.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\MediaOpenHint\MediaOpenHint.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Menstruation\Menstruation.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\MenuStyle\MenuStyle.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Mood\Mood.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\MoreList\MoreList.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Music\Music.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\NotiDetail\NotiDetail.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\OptionsList\OptionsList.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\PasswordLock\PasswordLock.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Pressure\PressureChart.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Pressure\PressureWork.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Qrcode\Qrcode.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\QuickApp\QuickApp.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\QuickKey\QuickKey.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\QuickMenuAddPage\QuickMenuAddPage.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\QuickMenuAdd\QuickMenuAdd.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\QuickMenuEdit\QuickMenuEdit.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\QuickMenu\QuickMenu.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Remind\Remind.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Settingrest\Settingrest.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\ShortCut\ShortCut.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\ShutDown\ShutDown.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\SleepDetailPage\SleepDetailPage.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Sleep\Sleep.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Spo2\Spo2.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Spo2\Spo2Chart.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Stopwatch\Stopwatch.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\TeleContact\TeleContact.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\TeleMain\TeleMain.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\TeleRecent\TeleRecent.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\TelephoneCall\TelephoneCall.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Telephone\Telephone.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\TimerTimeout\TimerTimeout.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Timer\Timer.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Upgrade\Upgrade.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Volume\Volume.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\WatchfaceLook\WatchfaceLook.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\WatchfaceSelect\WatchfaceSelect.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Weather\Weather.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\WfTopWin\WfTopWin.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\WorkoutHistoryList\WorkoutHistoryList.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\WorkoutResult\WorkoutResult.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\WorkoutRunning\WorkoutRunning.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\WorkoutSetTargetList\WorkoutSetTargetList.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\WorkoutSportAddList\WorkoutSportAddList.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\WorkoutSportAdd\WorkoutSportAdd.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\WorkoutSportChose\WorkoutSportChose.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\WorkoutTargetAchieve\WorkoutTargetAchieve.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\WorldTime\WorldTime.cpp
+..\..\..\src\app\watch\Gui\MVP\Pages\Wrist\Wrist.cpp
+.F4h`n
+.F4hff F
+/F.F(F
+/H0`+N
+/H@xpG|
+/I F@9 
+/I%`(j
+/I)H#
+/I0H#F
+/I0M0L
+/JiF F
+/KW"/I
+0 <= (int)ecl && (int)ecl < 4 && qrcodegen_VERSION_MIN <= version && version <= qrcodegen_VERSION_MAX
+0 <= (int)ecl && (int)ecl <= 3 && -1 <= (int)mask && (int)mask <= 7
+0 <= (int)mask && (int)mask <= 7
+0 <= bitLength && bitLength <= INT16_MAX
+0 <= ccbits && ccbits <= 16
+0 <= e && e < 4
+0 <= numBits && numBits <= 16 && (unsigned long)val >> numBits == 0
+0 <= numChars && numChars <= INT16_MAX
+0 <= result && result <= INT16_MAX
+0 <= temp && temp <= INT16_MAX
+0 == (align & (align - 1)) && "must align to a power of two"
+0 N pG
+0 b Fp
+0&h1F2F
+0(b`hhb
+0)FB] F
+0*FAFXF
+0.0%01d
+0000000
+00:01:20
+00?3?7>
+01/26 14:28am
+0123456789:;<=>@ABCDEF
+0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ $%*+-./:
+0123457689:;<=
+01DHaahO
+07:00 am
+09:30pm
+0:I/H,
+0>F=F8F
+0D$"!FC
+0D:F)FC
+0DJF9F
+0Dd&(D
+0Ds!HC
+0F8F@E
+0F9FMJNK7
+0FAN1h
+0FQF:F:
+0I.H#x
+0L.J!
+0TO@O,
+0TOBO,
+0`(F!FA
+0`a Fp
+0`iF(F
+0h#x"F
+0h*h!F
+0h9h(0
+0h@k@n
+0h@kAn
+0hBF9F
+0hBFIF
+0hCF:F
+0hDk`n
+0hKF:F
+0h`aph
+0i``0}`
+0pG@|pG
+0r(F!F%"?
+0s(F!F'"?
+0x(p x
+1 <= degree && degree <= qrcodegen_REED_SOLOMON_DEGREE_MAX
+1.  Press    Device in the app
+10:00-13:20
+10:20 23/45
+10F#jy
+18819273610
+18824665978
+18Fchu
+1@Fcky
+1@Fsj|
+1F F%h
+1F4T(F
+1F@F2i
+1FEHFJ
+1TFPFq
+1h'FLk`n
+1hHchv
+2!0Fd
+2 !$h@
+2"iF(F
+2. Then press "..." on the
+21 <= qrsize && qrsize <= 177 && 0 <= x && x < qrsize && 0 <= y && y < qrsize
+22:00-08:00
+2;ITHW
+2<!$hO
+2EFGHIJKLMNOPQ01, !RSTUVWXYZ[\]^_`abcdefghijkl
+2F F)F
+2F!F(F
+2F!F(h
+2F!F8F
+2F!F8a
+2F!F@F
+2F!FSH
+2F!FhF
+2F"! F
+2F"!(F
+2F)F l`
+2F)F3H
+2F)F8F
+2F9F F
+2F9F(F
+2F9FHF
+2F9FPF
+2FAF F
+2FiF(F
+2IF0F7
+2JRoPPPP
+2NIcHW
+2SIfHW
+2h+xQkHn
+2hd'$H
+2hiF(F
+3$J$hO
+3*FaF F
+3. Use    Reset to clear the 
+3;ZFSF:
+3F"F!(F
+3F"F!I
+3F"F1F
+3F"F;I
+3F"FHFX
+3F*F9F@F
+3F2F1F F
+3F:FAF
+3F:FAFHF
+3FJF9F F
+3FJFAF8F
+3FYF FT
+3I`hH` 
+3bF)F F
+3h:I:H
+3}"FAF
+4  pD 
+4"1F(F
+4D<`0 
+4D<`` 
+4KP!4H
+4Y#D[i
+5"0FaF
+5(0=FYpO
+58DEa`h8D
+5C'J-h<!
+5F*F!F8F
+5H7K8
+5I5H#F
+6 L!n d!
+6"NGYo
+60%-70%
+61pGpG
+6I,H#F
+6I5H#F
+6K3O0;
+70%-80%
+7F"F#F1F(F
+7HkO?L
+7J(h!F
+80%-90%
+80T1@F{
+8BF)F8F
+8BF1F(F
+8BF9F(F
+8DRF)F
+8FFFBF
+8FJFSF-
+8FQF2F
+8FQF2F~K:
+8FQF]J^K7
+8H@xpGp
+8M6J6H
+8```i 
+8h D8`
+8h-J #
+8hAI3F
+8hGkxn
+8hTF#
+8i(D8a
+90%-100%
+9F1FEE
+9F:F F
+9hDF(0
+9r%I&HW
+:'pGKH
+:9NFJj
+::,,,$*$**.68024
+:::<::<:<<<<<:<::
+:F!F(FS
+:F!F0F
+:F!FhF
+:F(10F}
+:F)F F
+:F)F0F
+:F)F@F
+:F)FXH
+:F)FhF
+:F)FlH
+:F)lhj
+:F+F!F
+:F0F!F
+:F1F F
+:F1F h
+:F1F(F
+:F1F(F/
+:F1FHF
+:FAF F
+:FAF(F
+:FAFHF
+:FQFhF
+:FiF FR
+:FiFHF
+:I9K7J
+:J)F0F
+:h!FHF&h
+:haxPF
+;;+++#)#))-5</13
+;F!F(F
+;F"F1F2
+;F)F F
+;F2F)F
+;F2FYFPFp
+;FBF0F
+;FBF1F
+;FBF1F j
+;FJF1F
+;FjF)F
+<")FhF
+<"AFhF
+<"iF8F
+<#jF1F
+<<<><<><>>>>><><<
+<C?J4h
+<I8H#F
+<K;IOF
+=%d.%01d
+=BLOZkZ<
+=I<H`9
+=I>HCF
+=IH`pG
+=Page::WorkoutSportAdd::onEvent
+=bax9q`y
+> HaWoFit 
+>!)>17q
+>DcD3D
+>DeD5D
+>Iqa0v
+>h:ich
+>r{1hA
+?>UUUUU
+?H@x p
+?I;H<J?K
+?K3`qa2v
+@!ybya
+@"iF@F
+@%)F F
+@&x5C%p
+@'>C ~
+@)yjya
+@1FHFb
+@2F)FhF
+@@NULL pointer
+@BpGpG
+@P `*h
+@SD_NON_RECOVERABLE_ERROR 1
+@X0DBa
+@\pG/I
+@a3h H
+@h(` F.
+@hbF!F
+@ibF!F
+@l@jpG
+@p(`(h@
+@pG|Q,
+@q)`(h@
+@sport_drv_dump_setting
+@uIvHvJ
+A(Fe`M
+A)M(ioi
+A1F@F"h
+AI=H#F
+AO8hA}
+AOD style
+APP AI Voice
+APP Activity
+APP Alarm
+APP Alipay
+APP Breathe
+APP Calculator
+APP Camera
+APP Dial
+APP Find Phone
+APP Game
+APP Heart Rate
+APP Lock screen
+APP Mood
+APP More
+APP Music
+APP Settings
+APP Sleep
+APP SpO2
+APP Stopwatch
+APP Stress
+APP Telephone
+APP Timer
+APP Torch
+APP Weather
+APP Workouts
+APP World Clock
+ASO@M9h(h
+AT+BAC=1
+AT+BAC=1,2
+AT+BCC
+AT+BCS=%d
+AT+BIEV=2,%d
+AT+BIND=2
+AT+BIND=?
+AT+BIND?
+AT+BLDN
+AT+BRSF=%d
+AT+BVRA=%d
+AT+CCWA=1
+AT+CHLD=%d
+AT+CHLD=?
+AT+CHUP
+AT+CIND=?
+AT+CIND?
+AT+CKPD=200
+AT+CLCC
+AT+CLIP=1
+AT+CMEE=1
+AT+CMER=3,0,0,1
+AT+COPS=3,0
+AT+IPHONEACCEV=2,1,%d,2,0
+AT+NREC=0
+AT+VGM=%d
+AT+VGS=%d
+AT+VTS=%c
+AT+XEVENT=BATTERY,%d,10,0,0
+ATD%s;
+A``h(DFa
+A`uNsI
+AacD`iFO
+Ab roller
+Activity
+Activity time
+ActivityDetail
+Add alarm in the app
+Add cities from app
+Add sports
+Add them up to reach 2048!
+Aerobic
+AiBx*s
+Aikido
+AirFrance
+Airbnb
+AlarmTimeout
+All Day
+Always On Display
+AmericanAirlines
+Anaerobic
+Anxious
+Aod Remind
+AodSetting
+AodStyle
+AppList
+AqpGiH
+Asserted at expression: %s
+Asserted at expression: %s (%s)
+Assistant
+AuLchsNqIv
+August
+Average heart rate
+Average pace
+Ax@i/"
+Ax@iC"
+Ax@ic"
+B.K@F1F
+B3`*`p
+BB2 Watch
+BB2 Watch LE
+BF!F(F
+BF(K@F
+BF)F F
+BF)F0F
+BF)F8F
+BF)FXF
+BF0D!Fh
+BF1F F
+BF9F F
+BF9F h
+BF9F(F
+BF9FHF
+BF9FHFb
+BFQFHFb
+BFQFXF
+BFSF(F1F
+BFYFHFc
+BK?N[x
+BL%d.%d
+BP9F(F
+BSF1F(F
+BT Remind
+BT Switch
+BT_TOPIC
+Badminton
+Ball games
+Ballet
+BankOfAmerica
+Baseball
+Basketball
+Battery time will be shorten when this function is on,continue or not?
+BatteryLow
+Bed time
+Beijing
+Belly dance
+Billiard
+BkPage::QuickMenuAddPage::onEvent
+BleDisconnet
+BleProtocol
+BleProtocolSendEvent
+BleProtocolTask
+Blowing snow
+Booking
+Bowling
+Boxing
+Breath
+BreathRunning
+BreatheCountDown
+BreatheExit
+BreatheFail
+BreatheFinish
+BreatheOptions
+Breathing exercise
+Breathing exercise is off
+Brightness
+BtSwitch
+Built-in image decoder can't open the file
+Built-in image decoder read failed
+Built-in image decoder read not supports the color format
+Built-in image decoder seek failed
+Bumble
+Bungee
+BusinessInsider
+Button
+CF"F1F2
+CF*F1F F
+CF*F9F0F
+CF."1F
+CF2F)F
+CFJF1F i
+CFJFQF
+CFNJQFHF
+CHARGE ICON LOAD PSRAM
+CKgai`
+CL@MAN#h
+CNNBreaking
+CT! e8Ft
+C`a`i6
+C`a`i@
+Calculator
+Call Failed
+Calling...
+Calories
+Camera
+Can I call you later?
+Can not move ISR to flash!
+Can not update vector table in ROM!
+Can't change cache size because it's disabled by LV_IMG_CACHE_DEF_SIZE = 0
+Can't draw sub-pixel rendered letter because LV_USE_FONT_SUBPX == 0 in lv_conf.h
+Can't draw the background image
+Can't open file (%s): driver not ready
+Can't open file (%s): open function not exists
+Can't open file (%s): unknown driver letter
+Can't open file: path is NULL
+Can't set draw_buf height using the round function. (Wrong round_cb or to small draw_buf)
+Can't set parent == NULL to an object
+Can't set the parent of a screen
+Cannot remove prop from const style
+Cannot reset const style
+Cannot set property of constant style
+Canoeing
+Car race
+Cecil(6)
+Cha-cha
+Characteristic 1531
+Characteristic 1532
+Characteristic 8001
+Characteristic 8002
+Characteristic 8003
+Characteristic 8004
+Charge
+Check flash is erasing failed. Cannot get status register WIP
+CheckA2dpVoice_timer
+CheckScoDisConnect_timer
+CheckWeChat_timer
+CheckWeWhatFlag_timer
+Clear all
+Climbing
+Cloudy
+Combat sports
+Completed %1 breathing
+ConfirmPowerOff
+Connect to the app to update weather
+Connect to your phone for music
+Console enters %s mode.
+Contacts
+Content
+Couldn't read the background image
+Cricket
+Cross country
+Crystal
+Crystal(ID-%02x%02x)
+Custom
+CxTITH 
+D @ZpG
+D%d.%02d
+D0hAiH
+D0hAjH
+D0hAoH
+D4D<`!F'
+D@!F(F
+DC 5V-1A
+DC7J !8x
+DDDDYYI
+DDOOOO{p
+DFU TASK
+DMA uart_rx_ch_num = %d
+DMA uart_tx_ch_num = %d
+DNULL pointer
+DP2!2h 
+DPTY]aek~
+DT(h@h@
+DWC_STRDUP
+DWC_TIMER_ALLOC_RAM
+DWorkout data is too little to save.
+D`i8D`a
+Db`"h"
+Db`"h0D"
+DbbDhJi
+December
+Deep sleep
+Delete
+Delete all data and reset?
+Deliveroo
+Deprecated: use the normal text_align style property instead
+Detecting...
+Device Information
+Device name
+DeviceInfo
+DiagralConnect
+Distance
+Do Not Disturb
+Do not disturb
+DoNotDistrbSetting
+Don't forget
+Down Button
+Download app
+Drizzle
+Dropbox
+E  pU 
+E@!F(F
+EFBF1F
+EHBu@"
+ELBICH#x
+EMPTY_PAGE
+EasyJet
+Elliptical training
+Emotion
+End Time
+End the exercise?
+Enter DFU mode
+Enter password
+ErIF0F7
+EvenRemind
+EveryDay
+Everyday
+Exception: %s.
+Exhale...
+Explore
+Extreme
+F!%hO
+F!4h@
+F$!FhF
+F%)FhF
+F&1FhF
+FF(hO
+FF}J~K@FQF
+F F)FL
+F"F  iip
+F"F$!8F
+F"F1F(F
+F"o! i
+F"o! j
+F"p!`b
+F"y! e
+F"y! k
+F"y!`e
+F"|! b
+F#J$K1F(F
+F&F/F!FPF
+F( `0F
+F(F!F@
+F(h@kp
+F)F0F>
+F)FHFK
+F)FPFD
+F)FPFK
+F)F}Hg
+F*F3F8FQF
+F*F9F F
+F*h1F@F
+F+F2F F
+F+F9F@F
+F+F<!hF
+F,!hFu
+F/M4HH=li
+F0F9FL
+F0L/H-K&h
+F0h*h(0
+F0hDkan
+F2"!Ic
+F2F)F`jT
+F2FCF)F
+F2F[F@FQF
+F3F:FAF F
+F4#8!-h
+F7J@h2O
+F8!$h@
+F8FAF3
+F8FQF6
+F8axi@
+F8x7h@
+F:0x%x.bin
+F:F!FhF
+F:FSF0FAF
+F;# !$hvJ
+F;F(F1F
+F;FBF!F
+F;x(IXFV
+F=F<F>F9F@F
+F=I%H0
+F@h*J*L
+F@kYFt
+F@kaF>
+F@z`ryz
+FAF8F<
+FAFHF{
+FAT32   
+FAxGh h
+FBF1F(F
+FBFKF6
+FBFKF:
+FBFKFPFYF3
+FBFPK7
+FBFQFXF
+FBFYK9
+FBFiF(F
+FBFxK:
+FB`Chd
+FCF"F+
+FCF:F1F
+FFCF(F!F
+FH"=IhF
+FH"@IhF
+FH"HIhF
+FH"PIhF
+FH"mIhF
+FH"rIhF
+FH=(Fix
+FJF)F8F
+FKBcE#
+FLCJh!
+FOLNHO
+FRFPK:
+FRF[F(F1F
+FXMZIUH+x
+FYF0F{
+FZF F)F
+FZF)F8F
+FZF0F9F
+F\JbK7
+F_LYh< 
+Facebook
+FactorryChargeTest
+FactoryAgingMenuTest
+FactoryAgingRunTest
+FactoryCodeTest
+FactoryHrTest
+FactoryInputQcNum
+FactoryKey1Test
+FactoryKeyTesst
+FactoryMainBoardTest
+FactoryMotoTest
+FactoryResul
+FactoryScreenTest
+FactoryShowResult
+FactorySpo2Test
+FactoryStepTest
+FactorySystemTest
+FactoryTest
+FactoryTouchTest
+FactoryVoiceTest
+Faild to allcoate item for teh gradient
+Failed to allocate memory for dot_tmp_ptr
+FallingBird
+Fastest
+Fat burning
+Fd BCX
+Fd hC/
+February
+Fh9PF@
+Find Phone
+FindDevice
+FindPhone
+Fishing
+FitShot crystal
+Fl"?IhF
+Flappy bird
+Flashlight
+Flickr
+Flipboard
+FlyDelta
+FnIsKo
+Fo#$h?J
+Follow below steps to turn it on
+Football
+ForThePassword
+Forget Password
+Free exercise
+Free fight
+Freezing rain
+Friday
+Frisbee
+FsFuFvFqFrF
+Fxh`cg
+GL `H
+G!F(F9
+G!F(F:
+G!h:MH`h
+G#M NO
+G%`IH3F
+G%a1h`i
+G(h:h!F
+G)F F "
+G*J!F=H
+G*h1NP`
+G*h9F"H
+G*hP`p
+G+F2F
+G-SENSOR
+G-SENSOR FAIL
+G0h9h(0
+G0h@k@n
+G1F%H&
+G1F8F&
+G1F=H&
+G1FSH&
+G2hhx$!
+G4N0`H
+G5N( O
+G5`EH#F
+G8Mhh@
+G>MWH)h
+GIHHKF
+GI`hH``
+GKL `P
+GQL `P
+GWL ` 
+GZ!"h: 
+GZ!"h; 
+GZ!*h< 
+G[L x,0
+G^J)F0F
+G`NgO0h9h(0
+GaL_H!h
+Game over!
+Game2048
+GameList
+Ge`SO&#$!
+GetCurrentNumListTimeOut_timer
+GetNumberName_timer
+Getting up for a
+GgL^H!h
+GjF)! FS
+Gk>hxn
+GkF:F)F0F
+Gliding
+Goal reached
+GoalAchieve
+GoalSetting
+GoogleMap
+GooglePlus
+GpNmH1h
+GqLIFuH"h
+Gsensor: X:%d,Y:%d,Z:%d
+Gsport_mgr_create
+Gym ball
+Gymnastic
+H @ZpG
+H ASJ @[8D
+H ASJ @[@D
+H ` F8
+H ``hz
+H!J8P
+H"-IhF
+H"8IhF
+H"@IhF
+H"F)F0`
+H"FIhF
+H"ZIhF
+H"aIhF
+H*h!F0
+H,!,06
+H,!X06
+H/8Bj/
+H0`P!$h@
+H2F<8#
+H@xpG-
+H@xpGX
+HAA`!h
+HAh1DA`
+HAt@"O
+HC@0pGHC
+HCpGHC
+HD8D0D
+HF:F1F
+HKhRF@
+HY-SmartSPI FlashDisk  1.0 
+H`@CTC
+Had your meals?
+Hangouts
+He(F 1
+Heart rate range
+HeartAlert
+HeartRate
+Heavy snow
+Hello.
+Here's your friendly
+Hi,I'm here
+High HR
+Hiking
+Hip-hop
+History
+HjF,!@h
+Hockey
+Horse race
+Hot-air balloon
+How about another
+HpG0(G
+HpGpGpGpG
+HrTest
+Ht0AxI
+Hula hoop
+Hunting
+Hurricane
+HxCF2FYF
+HxKF2F
+Hz[F)F
+HzpGHxpG
+I'm on my way
+I(Fchz
+I,"<1hF
+I0Fp1#hu
+I=F8FX
+IDA`)FPF
+IF"F(F
+IFJF F
+IFaHbJ
+IGeneration
+INFINITY
+IUUUUU
+IXFL1 
+I]`u`I
+I_FXF?
+Ice skating
+If you forget the password,
+Image decoder open: unknown color format
+Image draw can't read the line
+Image draw cannot open the image resource
+Image draw error
+Image draw: src is NULL
+Image flash buf alloc failed
+Image get info found unknown src type
+InactivityAlert
+IncomCall
+Incorrect command '%s'. Enter 'help' to view available commands.
+Incorrect command parameter(s). Enter 'help %s' to view correct format.
+Indiegogo
+Indoor cycling
+Indoor running
+Indoor sports
+Indoor walking
+Inhale...
+Instagram
+Invalid axis: %d
+Invalid command '%s'. Enter 'help' to view available commands.
+Invalid command list entry for traversing.
+Invalid index: %d
+Invalid level: %d. Must be 1..4
+Invalid level: %d. Must be 1..5
+Invalid mode: %d
+Invalid palette: %d
+Invalid param %s (string or binary).
+IpGJiB
+It is disable to make/receive calls, play music or use AI assistant after turn it off.
+It seems lv_tick_inc() is not called.
+It's a big endian system but LV_BIG_ENDIAN_SYSTEM is not enabled in lv_conf.h
+It's bedtime
+I{+F2F
+J!@2?h@
+J ASL @[
+J h)FPa
+J)TO)haD
+J,!:2$h@
+J:0U`M`@
+JF!FPFb
+JF)F8F
+JF)FhF
+JF1F(F
+JF9F F
+JF9F0F
+JF9FhF
+JFAF8F
+JFAF8F+i
+JF`l)F@D
+JHxLp$2
+JHzLr02
+JH|Lt02
+JH}Lu<2
+JIJHKI0F
+JL@!`h
+JLHJq#&2
+January
+Jeet kune do
+JetSmarter
+JhzI\9
+Joyful
+Just now
+K +6N:>
+K*3_\I
+K*x1h\3
+K*x@31h
+KF"F9F
+KF2FYF F
+KF:F1F
+KFRFYF
+KFRFYF l
+KFRFYF`h
+KFhT0h
+K\@+]I
+KakaoTalk
+Karate
+Keypad
+Kickboxing
+Kickstarter
+L$h${$
+L(h DAh!
+L4O`h 
+LENGTH %d, addr 0x%x, offset %u
+LHAhhF
+LHOJ8Q
+LI=H,1@
+LIIH;F
+LKu"LI
+LN<M#!2h(x
+LOUT_N
+LOUT_P
+LUUUUU
+LV_BIG_ENDIAN_SYSTEM == 1
+L^bfjnjK
+L``X u
+La`hPE@
+LeFigaro
+Leisure sports
+Lemonde
+Level 1
+Level 2
+Level 3
+Light sleep
+Linkedin
+Lock Screen
+Long time ago
+Los Angeles
+Low HR
+Low battery
+LowPower
+Lufthansa
+L}#!$h
+M"F#F5
+M"FiFhhy
+M-h-iM
+M@eD+D
+MIC1_N
+MIC1_P
+MIC2_N
+MIC2_P
+MIC3_N
+MIC3_P
+MICBIAS
+MMC_InitCard
+MMC_InitCard: MMC_GetCID error, sd_status:%d
+MMC_InitCard: MMC_GetCSD error, sd_status:%d
+MMC_InitCard: MMC_GetExtCSD error, sd_status:%d
+MMC_InitCard: MMC_GetOCR error, sd_status:%d
+MMC_InitCard: MMC_ResetCard error, sd_status:%d
+MMC_InitCard: MMC_SelectCmd error, sd_status:%d
+MMC_InitCard: MMC_SetBusWide error, sd_status:%d
+MMC_InitCard: MMC_SetHighSpeedMode error, sd_status:%d
+MN9#KJ6h
+MSDOS5.0
+MZ!= *h
+MainMenu
+Marathon
+Martial arts
+Max reached.
+MaxLedCur:106
+Measure
+MeasureFail
+Measurement failed.
+Measuring Failure
+Measuring SpO2.
+Media OutPut
+Media Sound
+MediaOpenHint
+Medium
+Meeting
+Menstrual period
+Menstruation
+MentionApp
+Menu Style
+MenuStyle
+Messenger
+Monday
+Mood Once more
+MorandiniBlog
+MoreList
+Motorboat
+Motorcycle race
+Mountaineering
+Muay thai
+Mulanquan
+N"x!hj
+N$N-N>NENKNPNRNSN]N
+N$N-NENKNPN]N
+N062h!
+N2,2,2222,"
+N26MobileBank
+N5DNk3D+D
+N:FAF6h(F
+NK@3D+D
+NKF:F0h
+NLTI Fy
+NO NAME    FAT     
+NO NAME    FAT32   
+NO(7<hPI,@
+NOLNp#?hJJ
+NOTIFY_AlarmTimeout
+NOTIFY_AodStyle
+NOTIFY_BatteryLow
+NOTIFY_Charge
+NOTIFY_ConfirmPowerOff
+NOTIFY_EvenRemind
+NOTIFY_FindDevice
+NOTIFY_GoalAchieve
+NOTIFY_HeartAlert
+NOTIFY_InactivityAlert
+NOTIFY_IncomCall
+NOTIFY_LowPower
+NOTIFY_MeasureFail
+NOTIFY_MediaOpenHint
+NOTIFY_Menstruation
+NOTIFY_NotiDetail
+NOTIFY_Remind
+NOTIFY_ShutDown
+NOTIFY_TimerTimeout
+NOTIFY_Upgrade
+NOTIFY_WorkoutTargetAchieve
+NSOlQmQsQ
+NT@4D,D
+NULL pointer
+NULL_PIN
+NY@1D)D
+NY@1D)D
+N`bHF
+Nb@2D*D
+NetatmoSecurity
+Netflix
+No Goal
+No Records
+No Workout
+No display created yet. No place to assign the new screen
+No more buffers. Increase LV_MEM_BUF_MAX_NUM.
+No notifications
+No password is set,
+No record
+No screen found
+No vibration
+Normal
+Not Assigned
+Not available
+Not interpreted with this event code
+NotiDetail
+November
+O&O8O=ONOSOiO
+O=ONO\O`O
+OHjFo
+OKs"OI
+OUT EP Babble
+O`h8D@j
+Ob@:D*Du
+October
+OdD>D4D
+Okay, I'm listening...
+Once more
+OpenTable
+Option 1
+Option 2
+Option 3
+Option 4
+Option 5
+OptionsList
+Other Social
+Out of memory
+Out of memory, can't allocate a new buffer (increase your LV_MEM_SIZE/heap size)
+OutDoor
+OutLook
+Outdoor cycling
+Outdoor running
+Outdoor sports
+Outdoor walking
+Ovulation period
+OxLyOO
+P b j 
+P"iF F
+P"iF(F
+P"n! j
+P"n!`i
+P"n!`j
+P%F$h F2
+P%d.%d
+P0h;F"F
+P2F!FhF
+P4VI3F
+P5Jh2R
+P=J\2R
+P@"iFC
+PDh6ID:D
+PINH[F
+PKr"PI
+POP\PePeQhQkQlQmQpQsQyQ
+P^IXFG
+Page::Activity::onEvent
+Page::ActivityDetail::onEvent
+Page::Alarm::onEvent
+Page::Alarm::onEventEdit
+Page::Alarm::onEventEditTime
+Page::Alarm::onEventEditWeek
+Page::Alarm::onEventHomepage
+Page::Alarm::onEventMsgInputQdecEdit
+Page::Alarm::onEventMsgInputQdecEditTime
+Page::Alarm::onEventMsgInputQdecEditWeek
+Page::Alarm::onEventMsgInputQdecHomepage
+Page::AlarmTimeout::onEvent
+Page::AodSetting::onEvent
+Page::AodStyle::onEvent
+Page::AppList::onEvent
+Page::Assistant::onEvent
+Page::BatteryLow::onEvent
+Page::BleDisconnet::onEvent
+Page::Breath::onEvent
+Page::BreatheCountDown::onEvent
+Page::BreatheExit::onEvent
+Page::BreatheFail::onEvent
+Page::BreatheFinish::onEvent
+Page::BreatheOptions::onEvent
+Page::BtSwitch::onEvent
+Page::Calculator::onEvent
+Page::Camera::onEvent
+Page::Camera::onEventCameraHomepage
+Page::Camera::onEventCameraSetting
+Page::Charge::onEvent
+Page::ConfirmPowerOff::onEvent
+Page::DeviceInfo::onEvent
+Page::DoNotDistrbSetting::onEvent
+Page::DoNotDistrbSetting::onEventEditTime
+Page::DoNotDistrbSetting::onEventMsgInputQdecEditTime
+Page::DoNotDistrbSetting::onEventMsgInputQdecSetting
+Page::DoNotDistrbSetting::onEventSetting
+Page::EvenRemind::onEvent
+Page::FactorryChargeTest::onEvent
+Page::FactoryAgingMenuTest::onEvent
+Page::FactoryAgingRunTest::onEvent
+Page::FactoryCodeTest::onEvent
+Page::FactoryHrTest::onEvent
+Page::FactoryInputQcNum::onEvent
+Page::FactoryKey1Test::onEvent
+Page::FactoryKeyTesst::onEvent
+Page::FactoryMainBoardTest::onEvent
+Page::FactoryMotoTest::onEvent
+Page::FactoryResul::onEvent
+Page::FactoryScreenTest::onEvent
+Page::FactoryShowResult::onEvent
+Page::FactorySpo2Test::onEvent
+Page::FactoryStepTest::onEvent
+Page::FactorySystemTest::onEvent
+Page::FactoryTest::onEvent
+Page::FactoryTouchTest::onEvent
+Page::FactoryVoiceTest::onEvent
+Page::FallingBird::onEvent
+Page::FindDevice::onEvent
+Page::FindPhone::onEvent
+Page::Flashlight::onEvent
+Page::ForThePassword::onEvent
+Page::Game2048::onEvent
+Page::GameList::onEvent
+Page::GoalAchieve::onEvent
+Page::GoalSetting::onEvent
+Page::HeartAlert::onEvent
+Page::HeartRate::onEvent
+Page::HrTest::onEvent
+Page::InactivityAlert::onEvent
+Page::IncomCall::onEvent
+Page::LowPower::onEvent
+Page::MainMenu::CacheWatchface
+Page::MainMenu::ParEventDealWF
+Page::MainMenu::onEvent
+Page::MeasureFail::onEvent
+Page::MediaOpenHint::onEvent
+Page::Menstruation::onEvent
+Page::MenuStyle::onEvent
+Page::Mood::onEvent
+Page::MoreList::onEvent
+Page::Music::onEvent
+Page::NotiDetail::onEvent
+Page::OptionsList::onEvent
+Page::PasswordLock::onEvent
+Page::PressureChart::onEvent
+Page::PressureWork::onEvent
+Page::Qrcode::onEvent
+Page::QuickApp::onEvent
+Page::QuickApp::onEventQuickAppDetail
+Page::QuickApp::onEventQuickAppSelect
+Page::QuickKey::onEvent
+Page::QuickMenu::QuickMenuAction
+Page::QuickMenu::QuickMenuonEvent
+Page::QuickMenu::onActivityEvent
+Page::QuickMenu::onEvent
+Page::QuickMenu::onHrEvent
+Page::QuickMenu::onMusicEvent
+Page::QuickMenu::onPressureEvent
+Page::QuickMenu::onQuickMenuAddPageEvent
+Page::QuickMenu::onSleepEvent
+Page::QuickMenu::onSpo2Event
+Page::QuickMenu::onWeatherEvent
+Page::QuickMenuAdd::onEvent
+Page::QuickMenuEdit::onEvent
+Page::Remind::onEvent
+Page::Settingrest::onEvent
+Page::ShortCut::onEvent
+Page::ShutDown::onEvent
+Page::Sleep::onEvent
+Page::SleepDetailPage::onEvent
+Page::Spo2::onEvent
+Page::Spo2Chart::onEvent
+Page::Stopwatch::onEvent
+Page::TeleContact::onEvent
+Page::TeleMain::onEvent
+Page::TeleRecent::onEvent
+Page::Telephone::onEvent
+Page::TelephoneCall::onEvent
+Page::Timer::onEvent
+Page::TimerTimeout::onEvent
+Page::Upgrade::onEvent
+Page::Volume::onEvent
+Page::WatchfaceLook::ParEventDealWF
+Page::WatchfaceLook::onEvent
+Page::WatchfaceSelect::onEvent
+Page::Weather::onEvent
+Page::WfTopWin::onEvent
+Page::WorkoutHistoryList::onEvent
+Page::WorkoutResult::onEvent
+Page::WorkoutRunning::onEvent
+Page::WorkoutSetTargetList::onEvent
+Page::WorkoutSportAddList::onEvent
+Page::WorkoutSportChose::onEvent
+Page::WorkoutTargetAchieve::onEvent
+Page::WorldTime::onEvent
+Page::Wrist::onEvent
+PageManager::BackPage
+PageManager::DelThenPush
+PageManager::FourceUnload
+PageManager::GetLoadAnimAttr
+PageManager::Install
+PageManager::Pop
+PageManager::Push
+PageManager::Register
+PageManager::StateLoadExecute
+PageManager::StateUnloadExecute
+PageManager::StateUpdate
+PageManager::SwitchAnimStateCheck
+PageManager::SwitchAnimTypeUpdate
+PageManager::SwitchReqCheck
+PageManager::SwitchTo
+PageManager::Uninstall
+PageManager::Unregister
+Paid your bills?
+Pandora
+Parachuting
+Parkour
+Partly cloudy day
+Partly cloudy night
+Paso doble
+PasswordLock
+Paused
+PbapTimeOut_timer
+Pbap_timer
+PeQkQlQmQsQ
+Peaceful
+Phonebook Access PCE
+Photos
+Pilates
+Ping-Pong
+Pinging...
+Pintrest
+Please add frequent contacts from app
+Please connect to the APP
+Please enable stress
+Please keep still.
+Please measure again.
+Please set password
+Pole dance
+Predicts 
+PressureChart
+PressureWork
+Q=O<hD
+QCAC Fm
+QCAC Fn
+QK*i)h
+QR Code
+Qhfp_ring
+Qrcode
+Quick Menu
+QuickApp
+QuickKey
+QuickMenu
+QuickMenuAdd
+QuickMenuAddPage
+QuickMenuEdit
+Quickstep
+Quit breathing
+R CepGp
+R R+R0R6RMR
+R R0R6RMR
+R:SASCSGSHSNSSSUSaSgSuS
+R:SASCSGSHSSSUSaS
+RBklik
+RCSHSUSaS
+RD`*HAh
+RF!F0F
+RF9F0Fq
+RFIF F
+RFIFhF
+RFlIjH
+RH@hpGQIH`pG-
+RIHqpGp
+RJSK8FQF
+RLPIPH#x
+RMWL 5
+ROUT_N
+ROUT_P
+RRRRR RR7FM xF
+RRaArrAa
+RWSTDERR
+Race walkling
+Raise to wake
+Realtek
+Realtek RTL8763EW Disk  1.0 usb_pbuf_malloc
+Recents
+Relax and focus
+Relaxed
+Remind
+Reminder Later
+Remove
+Remove?
+Restless
+Ring Tone
+Rise time
+Roller skating
+Rope skipping
+Rowing
+Rowing machine
+SC Brightness
+SC Do not disturb
+SC Lock
+SC Media Output
+SC Menu Style
+SC Mute
+SC Settings
+SDIO->PRESENT_STATE: 0x%x
+SD_InitCard: CMD8 reponse error, sd_status:%d
+SD_InitCard: MMC_SetRCA error, sd_status:%d
+SD_InitCard: SD_GetCID error, sd_status:%d
+SD_InitCard: SD_GetCSD error, sd_status:%d
+SD_InitCard: SD_GetRCA error, sd_status:%d
+SD_InitCard: SD_ResetCard error, sd_status:%d
+SD_InitCard: SD_SelectCmd error, sd_status:%d
+SD_InitCard: SD_SendAppCmd error, sd_status:%d
+SD_InitCard: SD_SendCID error, sd_status:%d
+SD_InitCard: SD_SendOpCond CMD41 error, sd_status:%d
+SD_InitCard: SD_SetBusWide error, sd_status:%d
+SD_InitCard: SD_SetHighSpeedMode error, sd_status:%d
+SD_NON_RECOVERABLE_ERROR 2
+SD_NON_RECOVERABLE_ERROR 3
+SD_NON_RECOVERABLE_ERROR 4
+SD_NON_RECOVERABLE_ERROR 5
+SD_SetHighSpeedMode
+SFJF!F(F
+SFJF!F0F
+SFJFYF l
+SFZF)F0F
+SIGABRT: Abnormal termination
+SIGRTRED: Redirect: can't open: 
+SJOHM`
+SK\"SI
+SMWI(h
+SOCIAL
+SSJJ1F
+STM     NAND Flash Disk 1.0 @P,
+SYS Timer
+SYS_TOPIC
+S[OUMCYWKEQI;GW(
+Sailing
+Saturday
+Screen time out
+September
+Setting-up
+Setting-up exercise
+Settingrest
+Shaping
+Shazam
+Shower
+ShutDown
+Shuttlecock
+Sit-ups
+Skateboarding
+Sleep Latency
+SleepDetailPage
+Slight snow
+Slowest
+Snapchat
+Snow shower
+Sorry, I can't talk right now
+Sound & Vibration
+Spo2Chart
+Spotify
+Squash
+Start Time
+Start again
+Start over
+Startup
+Stay still and focus on
+Step 1: Turn the BT Switch on from watch setting
+Step 2: Turn it on from HaWoFit App. Device > General Functions > Phone
+Stopwatch
+Strength training
+Stretching
+StripeDashboard
+Style1
+Style2
+Style3
+Summary
+Sunday
+Surfing
+SwissQuote
+TT8T|ThV
+T x+F2FAF
+T"!F(F
+T"1FHF
+T&T,T/T8TbT|T
+T,T/T8T|T
+T3-hBJ(!
+T3F:FAFHF
+TEST_TIMER
+TIQH3F
+T`ay h
+Taekwondo
+Tai chi
+Take a photo
+Tap to talk
+Tap to turn off
+Tap to turn on
+TeleContact
+TeleMain
+TeleRecent
+Telegram
+Telephone
+TelephoneCall
+Tennis
+That was awesome.
+Thundershower
+Thundershowers
+Thunderstorm
+Thursday
+Time Intervals
+Time out
+Time to play
+TimerTimeout
+Tinder
+Tomorrow
+Torch is off because of battery low
+Tornado
+TpGpG-
+Training effect
+Treadmill
+Tue,Jun 25
+Tuesday
+Tug of war
+Tumblr
+Turn Off
+Turn off or not?
+Twitter
+Type must be LV_CHART_TYPE_SCATTER
+Typhoon
+U"<!XF
+U(I(FJx
+U3DbDiCo
+U@eD,D
+U@eD\D,D
+UBSFinancial
+UIXF|1
+UPPER_STACK
+USB Device
+USBSpG
+USB_OTG_TASK
+USB_WATCH_TASK
+UUED43"
+UUUUUU
+U`kX! 
+UberEats
+Unexpected end angle
+Unexpected start angle
+Unicycle
+Upgrade
+Upgrade failed
+Upgrade successfully
+Upgrading
+V  pd 
+V pGpG
+V#$hmJ
+V(W0W@WGW
+V1.0.0R0.0T0.0H0.0B01
+V1.0.1R0.0T0.0H0.0B03
+VF2F9Fa
+VISH;F
+VUUUL 
+VUUUfalse
+VUUUresult >= 0
+VVXVVVVVG(O
+Version
+Vibration Intensity
+Vibration intensity
+Volley ball
+Volume
+W(WGWPW
+WHjF,!
+WIN_Activity
+WIN_ActivityDetail
+WIN_Alarm
+WIN_AodSetting
+WIN_AppList
+WIN_Assistant
+WIN_BleDisconnet
+WIN_Breath
+WIN_BreathRunning
+WIN_BreatheCountDown
+WIN_BreatheExit
+WIN_BreatheFail
+WIN_BreatheFinish
+WIN_BreatheOptions
+WIN_BtSwitch
+WIN_Calculator
+WIN_Camera
+WIN_DeviceInfo
+WIN_DoNotDistrbSetting
+WIN_FactorryChargeTest
+WIN_FactoryAgingMenuTest
+WIN_FactoryAgingRunTest
+WIN_FactoryCodeTest
+WIN_FactoryHrTest
+WIN_FactoryInputQcNum
+WIN_FactoryKey1Test
+WIN_FactoryKeyTesst
+WIN_FactoryMainBoardTest
+WIN_FactoryMotoTest
+WIN_FactoryResul
+WIN_FactoryScreenTest
+WIN_FactoryShowResult
+WIN_FactorySpo2Test
+WIN_FactoryStepTest
+WIN_FactorySystemTest
+WIN_FactoryTest
+WIN_FactoryTouchTest
+WIN_FactoryVoiceTest
+WIN_FallingBird
+WIN_FindPhone
+WIN_Flashlight
+WIN_ForThePassword
+WIN_Game2048
+WIN_GameList
+WIN_GoalSetting
+WIN_HeartRate
+WIN_HrTest
+WIN_MainMenu
+WIN_MenuStyle
+WIN_Mood
+WIN_MoreList
+WIN_Music
+WIN_OptionsList
+WIN_PasswordLock
+WIN_PressureChart
+WIN_PressureWork
+WIN_Qrcode
+WIN_QuickApp
+WIN_QuickKey
+WIN_QuickMenu
+WIN_QuickMenuAdd
+WIN_QuickMenuAddPage
+WIN_QuickMenuEdit
+WIN_Settingrest
+WIN_Sleep
+WIN_SleepDetailPage
+WIN_Spo2
+WIN_Spo2Chart
+WIN_Startup
+WIN_Stopwatch
+WIN_TeleContact
+WIN_TeleMain
+WIN_TeleRecent
+WIN_Telephone
+WIN_TelephoneCall
+WIN_Timer
+WIN_Volume
+WIN_WatchfaceLook
+WIN_WatchfaceSelect
+WIN_Weather
+WIN_WorkoutHistoryList
+WIN_WorkoutResult
+WIN_WorkoutRunning
+WIN_WorkoutSetTargetList
+WIN_WorkoutSportAdd
+WIN_WorkoutSportAddList
+WIN_WorkoutSportChose
+WIN_WorldTime
+WIN_Wrist
+WK}"WI
+Wake up
+Walking machine
+Warm-up
+WatchfaceLook
+WatchfaceSelect
+Wear the watch properly and try again
+Wear watch properly
+Weather
+Wechat
+Wednesday
+Weight training
+WellsFargo
+WhatsApp
+Workout
+Workout data is too little to save.
+WorkoutHistoryList
+WorkoutResult
+WorkoutRunning
+WorkoutSetTargetList
+WorkoutSportAdd
+WorkoutSportAddList
+WorkoutSportChose
+WorkoutTargetAchieve
+WorldTime
+Wrestling
+WristBand_Storage_ReminderAdd
+WristBand_Storage_ReminderCheck
+WristBand_Storage_ReminderDel
+WristBand_Storage_ReminderEdit
+WristBand_Storage_ReminderGet
+WristBand_Storage_ReminderInit
+WristBand_Storage_ReminderSerialGet
+X @ZpG
+X `N%|
+X is %d which is greater than hor. res
+X is %d which is smaller than zero
+XKFRFYF
+XKZ"XI
+X`P!hFc
+Xp`1Gt
+Xq`3J!i
+Y is %d which is greater than ver. res
+Y is %d which is smaller than zero
+Y'Y)Y*Y+Y1Y}Y
+Y'Y)Y*Y1Y
+YIVH+F
+YIYH+F
+YI`hH` 
+YL@YY2"Y
+YM hWK-h@k
+YUF.D4a
+YYYY@[G
+Yesterday
+You win!
+Youtube
+Z#*F!l k
+ZF@FQF
+ZFIF F
+ZFQFeH
+ZFQIPF
+ZF}I}H
+ZJUH)F
+ZNYLZM
+[F"F9F0F
+[F"FHFX
+[F9F@F.
+[F:F)F
+[FBF)F
+[FZFYF(F
+[PM][Error] Factory has not %s
+[PM][Error] Factory is not regsite, can't install page
+[PM][Error] Load anim type error: %d
+[PM][Error] Page is nullptr, Unload failed
+[PM][Error] Page(%s) ERROR custom Anim.Type = %d, use AnimState.Global.Type = %d
+[PM][Error] Page(%s) root must be nullptr
+[PM][Error] Page(%s) state[%d] was NOT FOUND!
+[PM][Error] Page(%s) unregister failed
+[PM][Error] Page(%s) was in stack
+[PM][Error] Page(%s) was multi push
+[PM][Error] Page(%s) was multi registered
+[PM][Error] Page(%s) was not found
+[PM][Error] Page(%s) was not found in PagePool
+[PM][Error] Page(%s) was not install
+[PM][Error] newNode is nullptr
+[PM][Error] stash malloc failed
+[PM][Warn] Page PageCurrent(%s) is busy
+[PM][Warn] Page PagePrev(%s) is busy
+[PM][Warn] Page is loaded!
+[PM][Warn] Page stack is empty, cat't pop
+[PM][Warn] Page switch busy, reqire(%s) is ignore
+[PM][Warn] Page switch busy[AnimState.IsSwitchReq = %d,AnimState.IsBusy = %d],request ignored
+[PM][Warn] Page(%s) has cached, unloading...
+[PM][Warn] appName has not set
+\ AS^ @[8D
+\ AS^ @[@D
+\(pHj@
+\H@h`J
+\O\U\q\
+\O\q\8^s^
+\Page::BreathRunning::onEvent
+\`"h3D
+\bT2hI
+\cT3hI
+\p)hOe
+]@eD)D
+]IVH+F
+]LPJw# 2!$h
+^ AS` @[
+^8^U^s^
+^^^                                        ^^^
+^^^ Type help to view supported commands   ^^^
+^^^ Welcome to Realtek BBPRO Terminal      ^^^
+_ _:_U_
+_(Fup5q
+_J1F F
+_Q!`(x`
+_b`o`p`
+_lv_disp_get_refr_timer
+_lv_disp_refr_timer
+_lv_grad_cache_mem != NULL
+_lv_img_cache_open
+_lv_img_decoder_init
+_lv_indev_read
+_lv_inv_area
+_lv_layout_list != NULL
+_lv_obj_style_create_transition
+_lv_txt_set_text_vfmt
+` a usJ
+` s a`a
+`!b!aab
+`!~ a!
+`(F!FQ">
+`(` h1F
+`(h@h8
+`)DB#z"
+`*F!FhF
+`*F0FS
+`+F2FIF8F
+`5`u`-
+`9F(F:
+`@  @`
+`@"iF8F
+`@`2F i
+`@`:F i
+`@`JF i
+`@hH`(lo
+`@hH`a 
+`@hH`d 
+`@hH`e 
+`@hH`k 
+`@hH`o 
+`@hH`p 
+`@hH`pG
+`@hH`r 
+`@hP`(lo
+`Ah%FA
+`Ah+J!
+`CPCyC
+`Cd!HCO
+`GFay h
+`H`Hh 
+`H`Hh@
+`I_K]J
+`IhA`pG6IQ
+`IxA`pG
+`LkMkN#h
+```ch0F
+``h`I@
+`app_send_msg_to_apptask
+`f`&s&a
+`f`&s&af
+`h(DAiI
+`h0D@i
+`h0DEjo
+`h8D@i
+`h8DEa F
+`h8DEjo
+`h@h`` F
+`hh)F@
+`i(C`a`i
+`i(Dai
+`i0D`a
+`i8D`a |
+`i@D`a
+`kh@F2h
+`n;FZF
+`nCFZF
+`nMFFF
+`nNFEF
+`p {d(
+`pGd pG
+`pGpG-
+`q |d(
+`wI@Fp1{
+`x3FAF
+`x6I(D
+a!i)H+F
+a%b`hO
+a(b=OhbF(`9h
+a(j D(b
+a)haDHa)haD
+a)i<H3F
+a0z wpz`w
+a2FAF 
+a2dp_enc_data_rx
+a2dp_init
+a7b0h2(
+aA`Ah!
+aA`ih(
+aAhacAh
+aJF!F(F
+aKXIc"
+aK|"aI
+aWIAaWI
+acl reconnect timer
+acl reconnect timer 4
+ad(h chh`c
+adp_plug_callback_in_queue
+adp_update_isr_cb
+adv interval slow down timer
+align_down
+align_ptr
+align_up
+alloc_assign_device_descriptor_content
+alloc_assign_multifunction_driver
+alloc_iso_request
+alloc_wrapper
+allocate_btn_areas_and_controls
+allocate_item
+amp_timer_off
+amp_timer_ready
+ams_add_client
+anHc`niF@h(
+ancs get data timer
+ancs rediscovery timer
+ancs_add_client
+ancs_get_app_attr
+ancs_init
+and try again.
+apGXh@
+aph(b%d
+app_audio_fs_frame_mem_alloc
+app_audio_policy_cback
+app_cmd_spp_capture_audio_dsp_ctrl_send_handler
+app_console_init
+app_data_trans
+app_main_task
+app_main_task_queue_create
+app_playback_put_data_timer_start
+app_playback_trans_sd_active_start_timer
+app_playback_write_send_msg
+app_reg_le_link_disc_cb
+app_send_startadv_msg_to_apptask
+array overflow
+at != NULL
+at->anim_dsc != NULL
+audio_ctr
+audio_effect_create
+audio_fs_decode_get_frame
+audio_fs_decode_judge_tagInfoSize
+audio_fs_fatfs_init
+audio_fs_find_fileInfo
+audio_fs_queue_init
+audio_fs_set_playlist
+audio_mgr_cback_register
+audio_mgr_init
+audio_path_create
+audio_path_deinit
+audio_path_init
+audio_path_msg_handler
+audio_path_msg_send
+audio_pipe_create
+audio_pipe_e_data_fill
+audio_pipe_init
+audio_plugin_create
+audio_plugin_deinit
+audio_plugin_init
+audio_plugin_msg_handler
+audio_plugin_msg_send
+audio_plugin_occasion_occur
+audio_probe_dsp_cback_register
+audio_probe_dsp_evt_cback_register
+audio_remote_align_buffer
+audio_remote_buffer_PLC_policy_1
+audio_remote_buffer_PLC_policy_2
+audio_remote_buffer_sync_req
+audio_remote_init
+audio_remote_media_buffer_register
+audio_route_init
+audio_route_physical_path_take
+audio_track_create
+audio_track_path_cback
+audio_volume_init
+avctp_handle_l2c_data_ind
+avctp_init
+avdtp_handle_signal_ind
+avdtp_init
+avdtp_rx_cmd_proc
+avdtp_rx_rsp_proc
+avrcp_cmd_enqueue
+avrcp_handle_vendor_BT_SIG_rsp
+avrcp_init
+avrcp_wait_rsp
+a~0hKF
+b*b4b7b@bKbQbSbXbkbpb~b
+b7b@bKbkb~b
+b9D,D@
+b:F9FhF
+bF#F(F1F
+bFAF j
+bJ`Jh"
+bK#*[l
+bKbpb~b
+bWIAbWIA`
+b`j0D`b
+bad_alloc: out of memory
+battchg
+bh)F0F
+bhp]9F
+bi!F(F
+bin_loader_driver_reg_cb
+bin_loader_init
+bin_loader_msg_handler
+bin_loader_send_isr_msg
+bin_loader_send_msg
+bin_loader_session_create
+bin_loader_session_destory
+bin_loader_token_issue
+binary
+bitLen != -1
+bitLen % 8 == 0
+bitLen <= dataCapacityBits
+bitLen == dataUsedBits
+bits >> 15 == 0
+bits >> 18 == 0
+block != &control->block_null && "block should not be null"
+block && "cannot insert a null entry into the free list"
+block == &control->block_null && "block list must be null"
+block_absorb
+block_is_free(block) && "block must be free"
+block_is_free(block) && "block should be free"
+block_is_free(prev) && "prev block is not free though marked as such"
+block_is_prev_free(block_next(block)) && "block should be free"
+block_locate_free
+block_merge_next
+block_merge_prev
+block_next
+block_prepare_used
+block_prev
+block_size(block) == remain_size + size + block_header_overhead
+block_size(block) >= block_size_min && "block not minimum size"
+block_size(block) >= size
+block_size(block_next(block)) == 0 && "next block size should be zero"
+block_size(remaining) >= block_size_min && "block split with invalid size"
+block_split
+block_to_ptr(block) == align_ptr(block_to_ptr(block), ALIGN_SIZE) && "block not aligned properly"
+block_to_ptr(remaining) == align_ptr(block_to_ptr(remaining), ALIGN_SIZE) && "remaining block not aligned properly"
+block_trim_free
+block_trim_used
+bpGJhB`
+bt_mgr_cback_register
+bt_mgr_init
+bt_pm_cback_register
+bt_roleswap_alloc_info
+bt_roleswap_info_send
+bt_roleswap_init
+bt_roleswap_sync
+bt_roleswap_transfer
+bt_sco_data_send
+bt_sdp_init
+bt_sniff_enter
+bt_spp_init
+btn_points is NULL
+btnm->button_areas != NULL
+btnm->ctrl_bits != NULL
+buf != NULL
+bytes overflow
+bz!z(F
+bza{8F
+bza{`x
+c d< `d8
+c#N(i d7h@
+c->buf != NULL
+c/cncwc
+c8i dxi`d
+cIdH#y
+cJaHL`
+cOaN8xqi
+cZCsKXC
+c`m(d F
+cadence
+callback failed
+callheld
+callsetup
+cannot rotate a full refreshed display!
+ch2F9F(F
+checkHfp_timer
+check_test_timer
+circ_calc_aa4
+cli_init
+clpNoI
+codec_drv_init
+codec_halt_timer
+codec_mgr_fsm
+codec_mgr_init
+codec_mgr_op_create
+codec_mgr_operation_fsm
+codec_mgr_session_create
+codec_mgr_session_fsm
+codec_msg_handler
+codec_send_isr_msg
+codec_sidetone_timer
+codec_stop
+codec_utils_mem_pool_init
+com.apple.MobileSMS
+com.atebits.Tweetie2
+com.burbn.instagram
+com.facebook.Facebook
+com.facebook.Messenger
+com.google.Gmail
+com.google.GooglePlus
+com.google.gmail
+com.google.hangouts
+com.google.ios.youtube
+com.hangout
+com.iAppsKings.TikEffect
+com.iwilab.KakaoTalk
+com.linkedin.Zephyr
+com.mail.iosmailer
+com.microsoft.Office.Outlook
+com.netease.mailmaster
+com.realtek.EADemo2
+com.skype.skype
+com.skype.tomskype
+com.ss.iphone.ugc.Aweme
+com.tencent.mipadqq
+com.tencent.mqq
+com.tencent.qqmail
+com.tencent.xin
+com.toyopagroup.picaboo
+com.truecaller
+com.truesoftware.TrueCallerOther
+com.tumblr.tumblr
+com.viber
+com.vk.vkclient
+com.yahoo.Aerogram
+com.yahoo.flickr
+com.zhiliaoapp.musically
+com.zoho.zmail
+comb Mormal OTA, Reset to OTA Mode
+completed!
+composite
+composite_bind
+composite_dev_prepare
+con paramter update timer
+console_init
+couldn't allocate memory
+couldn't allocate memory (%lu bytes)
+cpGAcpGCH
+create a2dp hw timer instance successfully, id %d
+current && "free list cannot have a null entry"
+cursor != NULL
+d&$Mi'
+d&e"@
+d/e>eHepe
+dHlLbo
+dJ!i0:
+data != NULL || len == 0
+dataUsedBits != -1
+data_tmp != NULL
+debounce timer
+decode_and_draw
+decoder != NULL
+default_walker
+detected modifying dirty areas in render
+dfuTotalTimer
+dfuWait4ConTimer
+dfu_fw_reboot: reset_mode %x, reason 0x%x
+dfu_main_task
+dfu_send_msg_to_dfutask
+digits != NULL
+disp != NULL
+disp->refr_timer != NULL
+draw->draw_letter == NULL (there is no function to draw letters)
+draw_bg_img
+draw_buf_rotate
+draw_ctx != NULL
+draw_img
+draw_img: image source type is unknown
+draw_letter_normal
+draw_letter_user
+dsc->font == NULL
+dsc->src != NULL
+dsc->user_data != NULL
+dsc_out != NULL
+dsp_algo_param_load
+dsp_download_algo_param
+dsp_download_hw_eq
+dsp_hal
+dsp_hal_init
+dsp_hw_eq_param_load
+dsp_ipc_action_send
+dsp_ipc_apt_eq_set
+dsp_ipc_audio_eq_set
+dsp_ipc_cback_register
+dsp_ipc_composite_data_send
+dsp_ipc_init
+dsp_ipc_record_eq_set
+dsp_ipc_send_h2d_param
+dsp_ipc_voice_eq_set
+dsp_ipc_wdrc_effect_set
+dsp_load_init
+dsp_mailbox_process: exception, msg_sub_type: 0x%02X, p_data: %p
+dsp_mgr
+dsp_mgr_send_action
+dsp_mgr_session_create
+dsp_msg_handler
+dsp_param_init
+dsp_pm_timer
+dsp_send_isr_msg
+dsp_send_msg
+dsp_send_vp_data
+dsp_stop
+dsp_vad_param_load
+due to low battery
+dwc_otg_driver_init
+dwc_otg_ep_alloc_desc_chain
+dwc_otg_ep_alloc_iso_desc_chain
+dwc_otg_pcd
+dwc_otg_pcd_alloc_request
+dwc_otg_pcd_ep_queue
+dwc_otg_pcd_iso_ep_start
+dwc_otg_save_dev_regs
+dwc_otg_save_gintmsk_reg
+dwc_otg_save_global_regs
+dynamic_latency_check
+dynamic_latency_dec_check
+dynamic_latency_res_check
+e'p)F F
+e/e>eHecepe
+e;H4J9
+e@eD*D
+e@eDrD*D
+eBfpGpG
+eFdFaF_
+eHAs`x
+eKk"eI
+e`8M(h
+e`h@EY
+e`h@Ec
+e`h@Ex
+e`hHEb
+e`hHE|
+e`hHE}
+e`hPEb
+e`hPEo
+e`hPEp
+ea)F8F
+end-of-stream
+end_angle >= 0 && start_angle <= 360
+entry != NULL
+ep timer
+ep10in
+ep10out
+ep11in
+ep11out
+ep12in
+ep12out
+ep13in
+ep13out
+ep14in
+ep14out
+ep15in
+ep15out
+ep1out
+ep2out
+ep3out
+ep4out
+ep5out
+ep6out
+ep7out
+ep8out
+ep9out
+err_int_status.d16: 0x%x
+exercise
+exercise?
+exercises today
+f != NULL
+f(f/f>fnf
+fH "!F
+fa8|1|
+fail to create a2dp hw timer, check hw timer usage!!
+failed
+failed to set defaults
+ff_memalloc
+file_p->cache != NULL
+file_p->cache->buffer != NULL
+fill_blended
+fill_blended: unsupported blend mode
+find_track_end
+flash switch 4bit fail
+flash switch 4bit success
+flash_nor_check_is_erasing
+flash_nor_erase_resume_check
+flash_nor_erase_suspend_check
+fli == i && sli == j && "block size indexed in wrong list"
+fmt != NULL
+font != NULL
+font_p != NULL
+fs_open
+fsm_create_trans_index_table
+fsm_init
+full_refresh requires at least screen sized draw buffer(s)
+f}d=e}a}b!y
+g sIJes4H
+g(g*g/g:g_geg~g
+g,g:g_geg~g
+gH@ifI
+gI*F F
+g_cur_menu
+g_par_menu
+g_sub_menu
+g`)F0Fp
+gamingg_mode_asrc_restore
+gap >= gap_minimum && "gap size too small"
+gatt rediscovery timer
+gatts_add_client
+get_local_style
+get_max_row
+gfffmi
+gfffpGpG
+glass of water?
+goal kcal
+goal km
+goal mi
+goal min
+gpiF(F 
+group != NULL
+gui_task
+gui_task_init
+h !*Fb
+h DAas
+h!DJhB
+h!`@h``
+h!`Aha`
+h!gAhag
+h!kbkckdkek
+h"F;I<H
+h"HIKH
+h"L'`Ghg`
+h(DAh!
+h(DAhA
+h)`Ahi`
+h*F1F F
+h0D@hQh
+h0DAhA
+h3Fho@
+h7h<hQh
+h8DAh!
+h8DAhA
+h:F1F(F
+h:F1FP
+h;F2F)F
+h<h!j!kek
+h@!@h8DAa
+h@!E~PFE
+h@h DGa
+h@h9D@
+h@z8D,I
+hAhCH@8
+hCjZFl1@F|
+hEkhn`
+hIDKhC
+hIeH#F
+hKFRF!
+hKJQFHF
+hPDBhB
+h` hBh"
+h`IF@F'
+haHFYF
+haibx@z
+hand wash reminder
+hci_cmd_vendor_auto_k_rf
+heap_and_timer_monitor_timer
+hfp_handle_rfc_data_ind
+hfp_init
+hfp_wait_rsp
+hh Ch`
+hhF)hF
+hh`b(h b 
+hhbahYE
+hjF)!P
+hkF"F)F
+hp(j8`
+hpGO,
+hpG$*,
+hpG@hpG
+hq)q(y
+htH@h$
+https://h5.huawo-wear.com/app
+hub vibrate tiemr
+hub_task
+hwi|0Fjih
+hzxrhz
+i == dataLen * 8
+i8h!F0
+i<IIhI
+iDj!kbkckdkekfk
+iF2h(F
+iF8Fzha
+iIfH;F
+iJF'I F
+iJF9F F
+iJF?I F
+iJFUI F
+iKn"iI
+i`a(h a
+ijAbhj
+ik*|tk
+img != NULL
+img_decoder_built_in_open: out of memory
+in app
+incorrect fixed length bytes size
+indev != NULL
+indev->driver != NULL
+indev->driver->read_timer != NULL
+indev_button_proc
+indev_pointer_proc
+indev_read_cb is not registered
+init_fake_disp
+insert_free_block
+instance != NULL
+integ->prev_status == this_prev_status && "prev status incorrect"
+integer too large
+integrity_walker
+interrupted
+interval_queue_init
+invalid data_size
+invalid extension
+invalid field descriptor
+invalid field type
+invalid size
+invalid union tag
+invalid wire_type
+io error
+io_dlps_pre_allocate_check_item
+io_in_det_timer
+io_out_det_timer
+ipGImage get info get read file header
+item != NULL
+iva'-{v
+iy`zxi
+i|0Fjih
+j0pGpG
+j:F1F(F/
+j;F:F9F F
+j;FJF)FPF
+jF%I8F:
+jF1F(F
+jFKh#!
+jb_init
+jcj[\s
+jhB`(x
+jiF8Fzh
+jp.naver.line
+k,D4D
+k3$h>J
+kF"F)F
+kFBF)F0F
+kIjHkM
+kKi"kI
+kTL$h%
+kpG@lpG
+l F2F1F
+l"-IhF
+l'l4l`l
+l'l;m8n
+l2oQ$[
+l6Y>Dua
+l:F1F(F
+l;mEmKm
+lCdLq
+lM h"F
+label->text != NULL
+labelContent
+labelTitle
+launch app
+llllll
+load:level = %d
+long press timer
+lv_anim_start
+lv_anim_timeline_add
+lv_anim_timeline_create
+lv_anim_timeline_del
+lv_anim_timeline_get_playtime
+lv_anim_timeline_get_reverse
+lv_anim_timeline_set_progress
+lv_anim_timeline_set_reverse
+lv_anim_timeline_start
+lv_anim_timeline_stop
+lv_canvas_copy_buf
+lv_canvas_copy_buf: x or y out of the canvas
+lv_canvas_draw_arc
+lv_canvas_draw_arc: can't draw to LV_IMG_CF_INDEXED canvas
+lv_canvas_draw_img
+lv_canvas_draw_img: Couldn't get the image data.
+lv_canvas_draw_img: can't draw to LV_IMG_CF_INDEXED canvas
+lv_canvas_draw_line
+lv_canvas_draw_line: can't draw to LV_IMG_CF_INDEXED canvas
+lv_canvas_draw_polygon
+lv_canvas_draw_polygon: can't draw to LV_IMG_CF_INDEXED canvas
+lv_canvas_draw_rect
+lv_canvas_draw_rect: can't draw to LV_IMG_CF_INDEXED canvas
+lv_canvas_draw_text
+lv_canvas_draw_text: can't draw to LV_IMG_CF_INDEXED canvas
+lv_canvas_set_buffer
+lv_canvas_transform
+lv_chart_add_cursor
+lv_chart_add_series
+lv_chart_get_cursor_point
+lv_chart_get_point_pos_by_id
+lv_chart_get_x_array
+lv_chart_get_x_start_point
+lv_chart_get_y_array
+lv_chart_hide_series
+lv_chart_remove_series
+lv_chart_set_all_value
+lv_chart_set_cursor_point
+lv_chart_set_cursor_pos
+lv_chart_set_ext_x_array
+lv_chart_set_ext_y_array
+lv_chart_set_next_value
+lv_chart_set_next_value2
+lv_chart_set_range
+lv_chart_set_series_color
+lv_chart_set_type
+lv_chart_set_value_by_id
+lv_chart_set_value_by_id2
+lv_chart_set_x_start_point
+lv_color_mix_with_alpha
+lv_disp_clean_dcache
+lv_disp_clean_dcache: no display registered
+lv_disp_drv_register
+lv_disp_drv_update
+lv_disp_enable_invalidation
+lv_disp_get_layer_sys
+lv_disp_get_layer_top
+lv_disp_get_refr_timer: no display registered
+lv_disp_get_scr_act
+lv_disp_get_scr_prev
+lv_disp_is_invalidation_enabled
+lv_disp_set_bg_color
+lv_disp_set_bg_image
+lv_disp_set_bg_opa
+lv_disp_trig_activity
+lv_disp_trig_activity: no display registered
+lv_draw_img
+lv_draw_label
+lv_draw_letter: character's bitmap not found
+lv_draw_letter: invalid bpp
+lv_draw_mask_add
+lv_draw_mask_angle_init
+lv_draw_mask_radius_init
+lv_draw_sw_letter
+lv_dropdown_get_selected_str: the buffer was too small
+lv_event_get_cover_area
+lv_event_get_draw_ctx
+lv_event_get_draw_part_dsc
+lv_event_get_hit_test_info
+lv_event_get_indev
+lv_event_get_key
+lv_event_get_old_size
+lv_event_get_scroll_anim
+lv_event_get_self_size_info
+lv_event_set_cover_res
+lv_event_set_ext_draw_size
+lv_font_get_bitmap_fmt_txt
+lv_font_get_glyph_bitmap
+lv_font_get_glyph_dsc
+lv_font_get_glyph_width
+lv_fs_drv_register
+lv_fs_open
+lv_fs_read_cached
+lv_gradient_get
+lv_gradient_set_cache_size
+lv_group_add_obj
+lv_group_create
+lv_img_buf_set_palette
+lv_img_buf_set_px_alpha: invalid 'id'
+lv_img_cache_set_size
+lv_img_decoder_built_in_info
+lv_img_decoder_built_in_line_compressed_color
+lv_img_decoder_built_in_line_true_color
+lv_img_decoder_built_in_open
+lv_img_decoder_built_in_read_line
+lv_img_decoder_create
+lv_img_decoder_open
+lv_img_set_src
+lv_img_set_src: unknown image type
+lv_img_set_src: unknown type
+lv_img_src_get_type
+lv_indev_delete
+lv_indev_drv_register
+lv_indev_drv_register: no display registered hence can't attach the indev to a display
+lv_indev_drv_update
+lv_indev_get_read_timer
+lv_indev_get_read_timer: indev was NULL
+lv_init
+lv_init: already inited
+lv_label_get_letter_on
+lv_label_get_letter_pos
+lv_label_ins_text
+lv_label_is_char_under_pos
+lv_label_set_dot_tmp
+lv_label_set_text
+lv_label_set_text_fmt
+lv_layer_sys: no display registered to get its sys. layer
+lv_layer_top: no display registered to get its top layer
+lv_layout_register
+lv_mask_add: no place to add the mask
+lv_mem_alloc
+lv_mem_buf_get
+lv_mem_buf_release
+lv_mem_realloc
+lv_mem_test
+lv_obj_add_event_cb
+lv_obj_allocate_spec_attr
+lv_obj_class_create_obj
+lv_obj_del
+lv_obj_get_disp
+lv_obj_remove_event_cb
+lv_obj_remove_event_cb_with_user_data
+lv_obj_remove_event_dsc
+lv_obj_set_parent
+lv_palette_darken
+lv_palette_lighten
+lv_palette_main
+lv_qrcode_constructor
+lv_qrcode_update
+lv_refr_area_part
+lv_roller_get_selected_str
+lv_roller_set_options
+lv_snapshot_take_to_buf
+lv_style_remove_prop
+lv_style_reset
+lv_style_set_prop
+lv_textarea_add_char
+lv_textarea_add_text
+lv_textarea_del_char
+lv_textarea_set_align
+lv_textarea_set_password_mode
+lv_textarea_set_placeholder_text
+lv_textarea_set_text
+lv_timer_create
+lv_timer_handler
+lv_tlsf_add_pool
+lv_tlsf_add_pool: Memory must be aligned by %u bytes.
+lv_tlsf_add_pool: Memory size must be between %u and %u bytes.
+lv_tlsf_check
+lv_tlsf_create
+lv_tlsf_create: Memory must be aligned to %u bytes.
+lv_tlsf_free
+lv_tlsf_memalign
+lv_tlsf_realloc
+lv_tlsf_remove_pool
+lv_txt_get_size
+lv_txt_get_size: integer overflow while calculating text height
+lv_user_font_get_bitmap_fmt_txt
+lv_user_font_get_bitmap_fmt_txt_old
+m+6ALWb
+m6I4H&F"F
+m;mAmEmKmjm
+mF"F!F
+mHoNmO
+malloc
+map_blended
+maxLedCur:%d
+media_buffer_attach
+media_buffer_construct
+media_buffer_downstream_dsp
+media_buffer_packet_record_init
+media_pool_create
+missing required field
+monitoring in the app.
+mp_cmd_module_init
+mp_cmd_set_parser
+mp_hci_task
+msc_alloc_request
+msc_bulk_out_complete_callback
+msc_fun_bind
+msc_function_sets
+msc_init_eps
+multi_function_driver
+multifunction_driver_bind
+n!HC^0pG
+n0pGpG
+nJjH!F
+nLbHlK$h
+net.whatsapp.WhatsApp
+new_anim != NULL
+new_drv != NULL
+new_dsc != NULL
+new_points != NULL
+new_points_alloc
+new_str != NULL
+new_timer != NULL
+next != NULL
+next && "next physical block can't be null"
+next && "next_free field can not be null"
+nnnnnnnnn
+no display registered
+no display registered to get its active screen
+no display registered to get its previous screen
+no more buffers. (increase LV_MEM_BUF_MAX_NUM)
+notification_ack
+notification_buffer_init
+notification_buffer_prequeue
+notification_buffer_stream_write
+notification_handshake
+notification_init
+notification_msg_handler
+notification_poll
+notification_ringtone_start
+o:0000
+oAT+XAPL=005D-8763-E,6
+oJ)FtH
+oJ)TOBO,
+oKZCoK
+oM`h(D
+oNULL pointer
+oRRaArrAa
+oa2dp_hw_timer
+oamp_timer_on
+oaudio stream type = %d, state = %d
+oavdtp_sig_timer
+obex_alloc_link
+obex_conn_cfm
+obex_connect
+obex_connect_with_auth_rsp
+obex_get_object
+obex_handle_data_ind
+obex_handle_rsp_pkt
+obex_init
+obex_put_data
+obex_set_path
+obj != NULL
+obj->spec_attr != NULL
+obj->spec_attr->event_dsc != NULL
+obj->styles != NULL
+oconsole_uart_init: p_callback %p
+odfu init unlock BP fail!
+odsp_spp_captrue_check_link
+opath_mgr
+open stream timer
+options != NULL
+ota deal timer
+ota timeout timer
+ota_dimage_transfer
+owatch_handle_io_message  create
+pF(FA
+p is not a known buffer
+p!hh0D
+p!hh`D
+p)h1DHa)hG
+p2F9F 
+p2FAF 
+p8FQFBFKF:
+p@"iFC
+p@HI:HU
+p@LI"H
+p@TITHU
+p@^IUH
+p@{JxI
+pAppGbI
+pBJ`6JA
+pD#KpB#
+pFan3F
+pG HpG
+pG%d.%d
+pG*H@opG(H
+pG7HpG7HpGO
+pG@jpG8
+pG@xIx@
+pGError! Please implement your ISR Handler for IRQ %d!
+pGSpeed
+pGWIN_Camera
+pGWIN_MainMenu
+pG`n;F
+pGbHYI
+pGd hC
+pGpG!H
+pGpG'H
+pGpG(I
+pGpG)HpG'H
+pGpG6H
+pGpG80
+pGpG:H
+pGpGGH
+pGpGH 
+pGpGP!
+pGpGjI
+pGpGpG
+pGpGpGl*
+pGpGpGpG
+pGpGpGpG=H
+pGpGpGpGpG
+pGpGpGpGpGpG
+pGpGpGpGpGpGpG
+pGpGpGpGpGpGpGpG
+pGpGpHpGpH
+pHaHi@
+pHqMwN
+pIxAppG
+pIxAppG-
+pSFZFHF
+pXaXi@
+pZFiFA
+p`P@0( 
+p```h 
+pa(F!FD
+pa0i D0a
+parent stream too short
+pbap_cmd_enqueue
+pbap_init
+pbap_send_cmd_pull_phone_book
+pbap_send_cmd_pull_vcard_entry
+pbap_send_cmd_pull_vcard_listing
+pcIEpJx
+pgT7hI
+ph.telegra.Telegraph
+ph0h `
+phCF)F
+ph`hh@
+pinterest
+playback_trans_file
+playback_up_transfer
+playback_write_data
+playback_write_data_task
+plc_limitation_timer_handle
+please do as follows.
+pool failed
+pos != NULL
+pos_in != NULL
+post_event_to_gui_task
+ppGpGpGpG
+pq1q`x
+pr(F!F>
+preValue0:%d
+predict_nextep_seq
+prev && "prev physical block can't be null"
+prev && "prev_free field can not be null"
+primary_one_way_play
+psValue:%d
+psram_spi_config_spic
+q !!sfs
+q DC0h
+q!F8Jg
+q!FPJf
+q!FmJf
+q({`t0h
+q5rYr[r
+q8}Pqx}
+qA`Ah!
+qHqpG0
+q`h(DFa
+q`h(DFa~I
+qoADqg
+qr0 != NULL
+qrcode != NULL
+qrcodegen_VERSION_MIN <= minVersion && minVersion <= maxVersion && maxVersion <= qrcodegen_VERSION_MAX
+qrcodegen_VERSION_MIN <= ver && ver <= qrcodegen_VERSION_MAX
+qrcodegen_VERSION_MIN <= version && version <= qrcodegen_VERSION_MAX
+qs(F!F>
+r s`s!ap
+rB``hPD
+rIF0F7
+rJ`Jh"
+rLr/ Hp
+rP!`i-
+rP(FQF
+rdtp_init
+realloc failed
+record write timer
+remote_hp_receive
+remote_hp_relay
+remote_lp_receive
+remote_lp_relay
+remote_mgr_init
+remote_msg_send
+remote_raise_cmd_timer
+remote_relay_data_ind
+remote_relay_register
+remote_retrans
+remove_free_block
+res_opa_saved != 0
+reset:level = %d
+result.bitLength != -1
+result.bitLength == bitLen
+rfc_init
+rfc_wait_msc
+rfc_wait_rsp
+rh)F F
+rhiF(F
+rhiF8F
+ri7f>T
+root@BBPRO:%s
+root@BBPRO:/# 
+rwstderr:1
+s(F!FA
+s7t7rwt7
+sBspG-
+sIpH;F
+sLqM x@
+sLsHtM
+sd_card_power_down_enable check
+seamless_join_seq_contiuity_check_timer
+seamless_join_start_protect
+search_suitable_block
+segs != NULL || len == 0
+send_msg_to_hub_task
+ser != NULL
+ser->x_points != NULL
+ser->y_points != NULL
+serial port5O
+series != NULL
+service
+signal
+size && "size must be non-zero"
+size == this_block_size && "block size incorrect"
+size too large
+sl_list && "no free blocks in second-level map"
+sl_map && "internal error - second level bitmap is null"
+spo2_v_1_5_1_B30_int_passive
+sport_drv_clock_src_sel
+sport_drv_codec_sel
+sport_drv_config_bclk_div
+sport_drv_data_sel_config_get
+sport_drv_direct_set_sample_rate
+sport_drv_enable_module
+sport_drv_get_current_sample_rate
+sport_drv_misc_config_get
+sport_drv_misc_config_set
+sport_drv_reset
+sport_drv_set_channel_len
+sport_drv_set_data_format
+sport_drv_set_rx_fifo_ch
+sport_drv_set_rx_fifo_num
+sport_drv_set_tdm_mode
+sport_drv_set_tx_data_select
+sport_drv_set_tx_fifo_num
+sport_drv_trx_config_get
+sport_drv_trx_parameter_set
+spp_init
+stable_dejitter
+start_angle >= 0 && start_angle <= 360
+string
+string overflow
+syjy1y
+sys_cfg_load read flash fail
+sys_event_flag_wait
+sys_event_group_create
+sys_event_init
+sys_hw_timer_handler
+sys_mgr_cback_register
+sys_msg_handler
+sys_sw_timer_handler
+sys_timer_create
+sys_timer_init
+t"}Bt"
+t)H=t00
+t\t(u1u5uLu{v
+t\t5uLu{v
+ta->placeholder_txt != NULL
+ta->pwd_tmp != NULL
+temp != NULL
+text != NULL
+the active screen was deleted
+there is no active screen
+tmp != NULL
+to_copy != NULL
+too many array entries
+tq%F+OS
+tr != NULL
+txt != NULL
+u!zAuaz
+u(|`sh|
+u@x v(h `
+uH"3IhF
+uJ!F@F
+uart_ack
+unexpected exception
+unknown exception
+usb_copy_descriptors_fs
+usb_copy_descriptors_hs
+usb_if_start
+usb_if_stop
+usb_msc_init
+usb_watch_send_msg
+usb_watch_task
+used: %6d (%3d %%), frag: %3d %%, biggest free: %6d
+user_data->opa != NULL
+user_data->palette != NULL
+v w<waw
+v"Bv"
+v(F!F,"?
+vItH;F
+vIvHwJ
+vKv"vI
+value_update
+variance_check
+varint overflow
+va{Avp
+w%t&ses8z
+w(F!F>
+w@"iFC
+wait ble disconnect timer
+walk is a great idea
+woM9F(F
+wrong size for fixed count field
+wrong wire type
+x! F.`
+x"AF F
+x&Z&1F
+x-bt/phonebook
+x-bt/vcard
+x-bt/vcard-listing
+xExDybN
+xJ)i :
+xh Dx`
+xiRFIF
+xnx:y^yhy
+xp*F!F@F
+xp1(FI
+xpGpG-
+xr*F!F@F
+xr/IJHW
+xt*F!F@F
+xu*F!F@F
+y r8zaz
+y!u@iiF
+y8r(zyz
+yBFAC y`
+ylCTCO
+your breathing
+your medicines
+z pGpG
+z,{I{R{
+z0lImH
+zCF"F)FHF
+zDPaused
+z\P@xT"F
+zero tag
+zero_mem is written
+zhiF0F
+zp)~8xa
+zpAC7H
+zpACRH
+zpCC"F
+zpHC>I
+zr+F)F
+zrII_HW
+zzzI{R{
+{31J?h
+{Kv"{I
+{LyJyH22$h@
+{v*~8~b
+{{{{{{{{{{{
+{|}~[\]^
+|H@\O
+|!qA|aq
+|(h9T(h D
+|*F9FhF
+|I|H+F
+|L'#!$hyJ
+|r,IHHW
+} s!F(F
+}!rB}br
+}H=()8
+}H=*)'
+~0pGpG
+~}|{zyxwvvutsrqqponnmllkjjihhgffeddccbaa``__^^]]\\[[ZZYYXXWWVVUUUTTSSRRRQQPPPOOONNMMMLLLKKKJJJIIIHHHGGGGFFFEEEDDDDCCCCBBBBAAAF
